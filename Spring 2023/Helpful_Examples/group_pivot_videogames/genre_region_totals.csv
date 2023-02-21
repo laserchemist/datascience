@@ -1,0 +1,61 @@
+genre,region,sales
+Action,European Union,510.99
+Action,Japan,160.15
+Action,North America,863.17
+Action,Other,182.22
+Action,Worldwide,1717.6299999999999
+Adventure,European Union,63.2
+Adventure,Japan,52.24
+Adventure,North America,101.52
+Adventure,Other,16.37
+Adventure,Worldwide,233.46
+Fighting,European Union,99.0
+Fighting,Japan,87.28
+Fighting,North America,220.51
+Fighting,Other,35.870000000000005
+Fighting,Worldwide,442.63
+Misc,European Union,210.6
+Misc,Japan,107.02
+Misc,North America,399.57
+Misc,Other,73.10000000000001
+Misc,Worldwide,790.94
+Platform,European Union,199.39
+Platform,Japan,130.71
+Platform,North America,444.44
+Platform,Other,51.010000000000005
+Platform,Worldwide,825.86
+Puzzle,European Union,49.78
+Puzzle,Japan,56.68
+Puzzle,North America,121.13
+Puzzle,Other,12.3
+Puzzle,Worldwide,240.33
+Racing,European Union,234.49
+Racing,Japan,56.63
+Racing,North America,356.86
+Racing,Other,75.51
+Racing,Worldwide,723.7
+Role-Playing,European Union,188.24
+Role-Playing,Japan,353.44
+Role-Playing,North America,330.04
+Role-Playing,Other,59.410000000000004
+Role-Playing,Worldwide,930.9
+Shooter,European Union,314.52
+Shooter,Japan,38.68
+Shooter,North America,584.83
+Shooter,Other,103.33
+Shooter,Worldwide,1041.83
+Simulation,European Union,113.35
+Simulation,Japan,63.64
+Simulation,North America,180.67
+Simulation,Other,30.59
+Simulation,Worldwide,388.4
+Sports,European Union,371.33000000000004
+Sports,Japan,134.93
+Sports,North America,671.2
+Sports,Other,132.21
+Sports,Worldwide,1310.39
+Strategy,European Union,44.79
+Strategy,Japan,49.3
+Strategy,North America,67.75
+Strategy,Other,10.73
+Strategy,Worldwide,172.85
