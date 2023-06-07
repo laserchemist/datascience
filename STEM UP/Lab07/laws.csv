@@ -1,0 +1,243 @@
+country,haveLaws,numberLaws
+Afghanistan,True,14
+Africa,False,0
+Albania,True,4
+Algeria,True,14
+American Samoa,False,0
+Andorra,True,25
+Angola,True,23
+Anguilla,False,0
+Antigua And Barbuda,False,0
+Argentina,True,19
+Armenia,True,10
+Aruba,False,0
+Asia,False,0
+Australia,True,21
+Austria,True,12
+Azerbaijan,True,4
+Bahamas,False,0
+Bahrain,True,2
+Baker Island,False,0
+Bangladesh,True,18
+Barbados,True,9
+Belarus,True,15
+Belgium,True,12
+Belize,True,7
+Benin,True,4
+Bhutan,True,22
+Bolivia,True,17
+"Bonaire, Saint Eustatius And Saba",False,0
+Bosnia And Herzegovina,False,0
+Botswana,True,5
+Brazil,True,38
+British Virgin Islands,False,0
+Bulgaria,True,13
+Burkina Faso,True,12
+Burma,False,0
+Burundi,True,11
+Cambodia,True,28
+Cameroon,True,6
+Canada,True,26
+Cape Verde,False,0
+Cayman Islands,False,0
+Central African Republic,True,2
+Chad,True,5
+Chile,True,31
+China,True,21
+Christmas Island,False,0
+Colombia,True,38
+Comoros,True,2
+Congo,True,9
+Congo (Democratic Republic Of The),False,0
+Costa Rica,True,27
+Croatia,True,17
+Cuba,True,12
+Curaçao,False,0
+Cyprus,True,2
+Czech Republic,False,0
+Côte D'Ivoire,False,0
+Denmark,True,15
+Denmark (Europe),False,0
+Djibouti,True,8
+Dominica,True,8
+Dominican Republic,True,18
+Ecuador,True,16
+Egypt,True,7
+El Salvador,True,11
+Equatorial Guinea,True,1
+Eritrea,True,2
+Estonia,True,4
+Ethiopia,True,17
+Europe,False,0
+Falkland Islands (Islas Malvinas),False,0
+Faroe Islands,False,0
+Federated States Of Micronesia,False,0
+Fiji,True,11
+Finland,True,15
+France,True,40
+France (Europe),False,0
+French Guiana,False,0
+French Polynesia,False,0
+French Southern And Antarctic Lands,False,0
+Gabon,True,7
+Gambia,True,8
+Gaza Strip,False,0
+Georgia,True,17
+Germany,True,28
+Ghana,True,11
+Greece,True,20
+Greenland,False,0
+Grenada,True,7
+Guadeloupe,False,0
+Guam,False,0
+Guatemala,True,8
+Guernsey,False,0
+Guinea,True,9
+Guinea Bissau,False,0
+Guyana,True,3
+Haiti,True,2
+Heard Island And Mcdonald Islands,False,0
+Honduras,True,16
+Hong Kong,False,0
+Hungary,True,17
+Iceland,True,8
+India,True,19
+Indonesia,True,34
+Iran,True,12
+Iraq,True,1
+Ireland,True,24
+Isle Of Man,False,0
+Israel,True,24
+Italy,True,31
+Jamaica,True,5
+Japan,True,29
+Jersey,False,0
+Jordan,True,4
+Kazakhstan,True,10
+Kenya,True,20
+Kingman Reef,False,0
+Kiribati,True,12
+Kuwait,True,2
+Kyrgyzstan,True,15
+Laos,False,0
+Latvia,True,4
+Lebanon,True,4
+Lesotho,True,6
+Liberia,True,8
+Libya,True,2
+Liechtenstein,True,6
+Lithuania,True,4
+Luxembourg,True,16
+Macau,False,0
+Macedonia,False,0
+Madagascar,True,10
+Malawi,True,15
+Malaysia,True,8
+Mali,True,26
+Malta,True,9
+Martinique,False,0
+Mauritania,True,4
+Mauritius,True,10
+Mayotte,False,0
+Mexico,True,20
+Moldova,True,12
+Monaco,True,2
+Mongolia,True,15
+Montenegro,True,9
+Montserrat,False,0
+Morocco,True,23
+Mozambique,True,12
+Namibia,True,12
+Nepal,True,17
+Netherlands,True,21
+Netherlands (Europe),False,0
+New Caledonia,False,0
+New Zealand,True,12
+Nicaragua,True,13
+Niger,True,6
+Nigeria,True,19
+Niue,True,8
+North America,False,0
+North Korea,False,0
+Northern Mariana Islands,False,0
+Norway,True,18
+Oceania,False,0
+Oman,True,7
+Pakistan,True,15
+Palau,True,8
+Palestina,False,0
+Palmyra Atoll,False,0
+Panama,True,19
+Papua New Guinea,True,13
+Paraguay,True,19
+Peru,True,19
+Philippines,True,32
+Poland,True,19
+Portugal,True,23
+Puerto Rico,False,0
+Qatar,True,3
+Reunion,False,0
+Romania,True,17
+Russia,True,13
+Rwanda,True,12
+Saint Barthélemy,False,0
+Saint Kitts And Nevis,False,0
+Saint Lucia,True,6
+Saint Martin,False,0
+Saint Pierre And Miquelon,False,0
+Saint Vincent And The Grenadines,False,0
+Samoa,True,18
+San Marino,True,3
+Sao Tome And Principe,False,0
+Saudi Arabia,True,7
+Senegal,True,19
+Serbia,True,6
+Seychelles,True,11
+Sierra Leone,True,15
+Singapore,True,11
+Sint Maarten,False,0
+Slovakia,True,20
+Slovenia,True,8
+Solomon Islands,True,8
+Somalia,True,6
+South Africa,True,17
+South America,False,0
+South Georgia And The South Sandwich Isla,False,0
+South Korea,True,31
+Spain,True,55
+Sri Lanka,True,17
+Sudan,True,1
+Suriname,True,5
+Svalbard And Jan Mayen,False,0
+Swaziland,False,0
+Sweden,True,17
+Switzerland,True,12
+Syria,True,4
+Taiwan,True,6
+Tajikistan,True,8
+Tanzania,True,15
+Thailand,True,18
+Timor Leste,False,0
+Togo,True,15
+Tonga,True,7
+Trinidad And Tobago,False,0
+Tunisia,True,8
+Turkey,True,22
+Turkmenistan,True,1
+Turks And Caicas Islands,False,0
+Uganda,True,12
+Ukraine,True,21
+United Arab Emirates,True,6
+United Kingdom,True,47
+United Kingdom (Europe),False,0
+United States of America,True,24
+Uruguay,True,18
+Uzbekistan,True,8
+Venezuela,True,6
+Vietnam,True,34
+Virgin Islands,False,0
+Western Sahara,False,0
+Yemen,True,6
+Zambia,True,20
+Zimbabwe,True,15
+Åland,False,0
