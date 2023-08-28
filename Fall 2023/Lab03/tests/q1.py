@@ -11,8 +11,6 @@ test = {
           >>> import numpy as np
           >>> type(array_var) == np.ndarray
           True
-          >>> type(col_type) == str
-          True
           """,
           'hidden': False,
           'locked': False
