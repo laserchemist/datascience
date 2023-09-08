@@ -10,8 +10,9 @@ test = {
           >>> #   math.sin(1.5 * math.pi)
           >>> import math
           >>> import numpy as np
-          >>> np.round(sine_of_pi_over_four, 8) 
-          0.70710678
+          >>> test = np.round(math.sin(math.pi/4),8)
+          >>> np.round(sine_of_pi_over_four, 8) == test
+          True
           """,
           'hidden': False,
           'locked': False
