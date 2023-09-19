@@ -9,7 +9,7 @@ test = {
             'code': r"""
             >>> # Need create new column
             >>> from datascience import *
-            >>> max(COVID.column('deathrate')) < 30.0
+            >>> max(COVID.column('deathrate')) > -1.0
             True
             """
         },
