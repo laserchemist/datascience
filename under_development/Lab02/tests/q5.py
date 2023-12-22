@@ -1,15 +1,13 @@
 test = {
-  'name': 'Question',
+  'name': '5',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> woman_asking
-          'The woman asked:'
-          >>> gagarin_quote
-          '"As a matter of fact, I have!"'
+          >>> round(min_height_difference, 5)
+          0.05
           """,
           'hidden': False,
           'locked': False

@@ -6,12 +6,12 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> # It looks like you didn't give anything the name
-          >>> # expression.  Maybe there's a typo, or maybe you
-          >>> # just need to run the cell again where you defined
-          >>> # expression.  (Click that cell and then click the "run
-          >>> # cell" button in the menu bar above.)
-          >>> 'expression' in vars()
+          >>> # Fill in the row
+          >>> #   time = ...
+          >>> # with something like:
+          >>> #   time = 4.567
+          >>> # (except with the right number).
+          >>> time != ...
           True
           """,
           'hidden': False,
@@ -19,11 +19,22 @@ test = {
         },
         {
           'code': r"""
-          >>> # It looks like you didn't change the cell to define
-          >>> # expression appropriately.  It should be a number,
-          >>> # computed using Python's arithmetic.  Remember the order
-          >>> # of operations. (PEMDAS)
-          >>> expression != ...
+          >>> # Read the text above the question to see what
+          >>> # time should be.
+          >>> round(time, 5)
+          1.2
+          """,
+          'hidden': False,
+          'locked': False
+        },
+        {
+          'code': r"""
+          >>> # Fill in the row
+          >>> #   estimated_distance_m = ...
+          >>> # with something like:
+          >>> #   estimated_distance_m = 4.567
+          >>> # (except with the right number).
+          >>> estimated_distance_m != ...
           True
           """,
           'hidden': False,
@@ -31,8 +42,20 @@ test = {
         },
         {
           'code': r"""
-          >>> expression == 2022
+          >>> # Note that the units are meters, but the text used
+          >>> # centimeters.
+          >>> estimated_distance_m != 113
           True
+          """,
+          'hidden': False,
+          'locked': False
+        },
+        {
+          'code': r"""
+          >>> # Read the text above the question to see what
+          >>> # estimated_distance_m should be.
+          >>> round(estimated_distance_m, 5)
+          1.13
           """,
           'hidden': False,
           'locked': False

@@ -6,10 +6,10 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> # Fill in the line that currently says
-          >>> #   predicted_distance_m = ...
-          >>> # in the cell above.
-          >>> predicted_distance_m != ...
+          >>> # Fill in the line
+          >>> #   num_avenues_away = ...
+          >>> # in the cell above. 
+          >>> num_avenues_away != ...
           True
           """,
           'hidden': False,
@@ -17,19 +17,26 @@ test = {
         },
         {
           'code': r"""
-          >>> # Compute predicted_distance_m using the formula in the text
-          >>> # above.  Hint: it should start with something like this:
-          >>> #   predicted_distance_m = (1/2) * gravity_constant ...
-          >>> round(predicted_distance_m, 5)
-          1.17022
+          >>> # Remember to compute the absolute value of 7-10.  Traveling 
+          >>> # "-3 blocks" doesn't really make sense!
+          >>> num_avenues_away != -3
+          True
           """,
           'hidden': False,
           'locked': False
         },
         {
           'code': r"""
-          >>> round(difference, 5)
-          0.04022
+          >>> num_avenues_away
+          3
+          """,
+          'hidden': False,
+          'locked': False
+        },
+        {
+          'code': r"""
+          >>> manhattan_distance
+          1462
           """,
           'hidden': False,
           'locked': False
