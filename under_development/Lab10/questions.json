@@ -41,7 +41,7 @@
             }        ]
     },
      {
-        "question": "Why do we split or data into a training and test set? (Select all that are correct)",
+        "question": "Why do we split our data into a training and test set? (Select all that are correct)",
         "type": "many_choice",
         "answers": [
             {
