@@ -1,0 +1,65 @@
+[
+    {
+        "question": "What does nearest neighbor mean in the context of a a training data set?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "The rows/observations which are closest in terms of values of attributes",
+                "correct": true,
+                "feedback": "Correct."
+            },
+            {
+                "answer": "The rows/observations appear closest in the data set",
+                "correct": false,
+                "feedback": "No these rows are adjacent only by chance."
+            },
+            {
+                "answer": "Nearest neighbors always have the same predicted value",
+                "correct": false,
+                "feedback": "No, the predicted values may be close or the same but this is not required"
+            }
+                 ]
+    },
+    {
+        "question": "What does the k stand for in k nearest neighbors?",
+        "type": "multiple_choice",
+        "answers": [
+            {
+                "answer": "k is only part of the name of the method",
+                "correct": false,
+                "feedback": "k is in the name of the method but has an important significance beyond that."
+            },
+            {
+                "answer": "k is the number of neighbors to consider once sort to find the closest rows/observations in the test data set.",
+                "correct": true,
+                "feedback": "Yes, k takes on an integer value representing the number of neighbors."
+            },
+            {
+                "answer": "k is part of the expression ok representing a good method",
+                "correct": false,
+                "feedback": "No, not really."
+            }        ]
+    },
+     {
+        "question": "Why do we split or data into a training and test set? (Select all that are correct)",
+        "type": "many_choice",
+        "answers": [
+            {
+                "answer": "The training set is for the machine learning algorithm to learn from",
+                "correct": true,
+                "feedback": "True."
+            },
+            {
+                "answer": "The test data set is used to test the accuracy of the trained model.",
+                "correct": true,
+                "feedback": "Yes, predictions made from the attributes of the test data set indicate the accuracy of the model."
+            },
+            {
+                "answer": "The training and test data sets are used the same exact way in machine learning.",
+                "correct": false,
+                "feedback": "No, very different roles in the algorithm."
+            }        ]
+    }
+
+        ]
+ 
