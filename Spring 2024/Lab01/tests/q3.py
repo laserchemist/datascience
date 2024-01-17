@@ -11,7 +11,7 @@ test = {
           >>> # just need to run the cell again where you defined
           >>> # expression.  (Click that cell and then click the "run
           >>> # cell" button in the menu bar above.)
-          >>> 'wad_height_km' in vars()
+          >>> 'bundle_height_km' in vars()
           True
           """,
           'hidden': False,
@@ -21,7 +21,7 @@ test = {
           'code': r"""
           >>> # It looks like you didn't change the cell to define
           >>> # expression appropriately.
-          >>> wad_height_km != ...
+          >>> bundle_height_km != ...
           True
           """,
           'hidden': False,
@@ -32,7 +32,7 @@ test = {
           >>> # Your answer is off by quite a bit. Be sure to check your
           >>> # units! Convert the paper thickness to meters, then convert
           >>> # your calculated answer to kilometers.
-          >>> np.abs(wad_height_km - 13.4217728) < 0.1 
+          >>> np.abs(bundle_height_km - 13.4217728) < 0.1 
           True
           """,
           'hidden': False,
