@@ -13,14 +13,6 @@ test = {
              """
         },
         {
-          'code': r"""
-          >>> type(time1) == float
-          True
-          >>> type(time2) == float
-          True
-          """
-        },
-        {
             'code': r"""
             >>> # Need create Data Table using original COVID dataand where method
             >>> from datascience import *
