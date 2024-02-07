@@ -15,9 +15,9 @@ test = {
         },
         {
             'code': r"""
-             >>>  # Need create two arrays, dates and deathrate to plot
+             >>>  # Column with deathrate in COVID table sho
              >>> import numpy as np
-             >>> type(deathrate) == np.ndarray
+             >>> type(COVID.column('deathrate')) == np.ndarray
              True
              """
         }
