@@ -15,7 +15,7 @@ test = {
         },
         {
             'code': r"""
-             >>>  # Column with deathrate in COVID table sho
+             >>>  # Column with deathrate in COVID table should be labelled 'deathrate'
              >>> import numpy as np
              >>> type(COVID.column('deathrate')) == np.ndarray
              True
