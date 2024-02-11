@@ -1,0 +1,31 @@
+Games,Year,Country,Type,Events,Athletes,"Cost, Billion USD"
+Rome,1960,Italy,Summer,150,5338,n/a
+Tokyo,1964,Japan,Summer,163,5152,0.282
+Mexico City,1968,Mexico,Summer,172,5516,n/a
+Munich,1972,Germany,Summer,195,7234,1.009
+Montreal,1976,Canada,Summer,198,6048,6.093
+Moscow,1980,Soviet Union,Summer,203,5179,6.331
+Los Angeles,1984,United States,Summer,221,6829,0.719
+Seoul,1988,South Korea,Summer,237,8397,n/a
+Barcelona,1992,Spain,Summer,257,9356,9.687
+Atlanta,1996,United States,Summer,271,10318,4.143
+Sydney,2000,Australia,Summer,300,10651,5.026
+Athens,2004,Greece,Summer,301,10625,2.942
+Beijing,2008,China,Summer,302,10942,6.81
+London,2012,United Kingdom,Summer,302,10568,14.957
+Rio,2016,Brazil,Summer,306,10500,4.557
+Squaw Valley,1960,United States,Winter,27,665,n/a
+Innsbruck,1964,Austria,Winter,34,1091,0.022
+Grenoble,1968,France,Winter,35,1158,0.888
+Sapporo,1972,Japan,Winter,35,1006,0.117
+Innsbruck,1976,Austria,Winter,37,1123,0.118
+Lake Placid,1980,United States,Winter,38,1072,0.435
+Sarajevo,1984,Yugoslavia,Winter,39,1272,n/a**
+Calgary,1988,Canada,Winter,46,1432,1.109
+Albertville,1992,France,Winter,57,1801,1.997
+Lillehammer,1994,Norway,Winter,61,1737,2.228
+Nagano,1998,Japan,Winter,68,2176,2.227
+Salt Lake City,2002,United States,Winter,78,2399,2.52
+Torino,2006,Italy,Winter,84,2508,4.366
+Vancouver,2010,Canada,Winter,86,2566,2.54
+Sochi,2014,Russia,Winter,98,2780,21.89
