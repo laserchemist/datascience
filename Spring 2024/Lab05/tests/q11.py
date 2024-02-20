@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> 0.4 < simulated_num_correct < 0.6
+          >>> 0.4 < simulated_frac_correct < 0.6
           True
           
           """,
