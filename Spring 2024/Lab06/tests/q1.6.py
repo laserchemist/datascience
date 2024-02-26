@@ -6,6 +6,15 @@ test = {
       'cases': [
         {
           'code': r"""
+          >>> # Remember a 20 sided die has outcomes from 1 to 20 not including 0
+          >>> mean20 == 10.5
+          True
+          """,
+          'hidden': False,
+          'locked': False
+        },
+          {
+          'code': r"""
           >>> # Make sure your estimator is subtracting a reasonable value from the mean observation
           >>> ok_test_array = make_array(1, 2, 3, 4, 5, 6, 7)
           >>> abs(11 - (np.mean(ok_test_array) - mean_based_estimator(ok_test_array))) < 4
