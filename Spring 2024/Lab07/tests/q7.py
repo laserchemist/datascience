@@ -6,17 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> simulate_under_null(100) > -25 and simulate_under_null(100) < 25
-          True
-          """,
-          'hidden': False,
-          'locked': False
-        }, 
-        {
-          'code': r"""
-          >>> max(samples) < 1200
-          True
-          >>> min(samples) > -1200
+          >>> p_val_simulation < 0.001
           True
           """,
           'hidden': False,

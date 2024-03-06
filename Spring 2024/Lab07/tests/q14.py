@@ -1,14 +1,12 @@
 test = {
-  'name': 'Question 10',
+  'name': 'Question 14',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> temp_law.num_columns == 17
-          True
-          >>> year_range.num_rows == 5543
+          >>> simulate_under_null(100) > -25 and simulate_under_null(100) < 25
           True
           """,
           'hidden': False,
@@ -16,9 +14,9 @@ test = {
         }, 
         {
           'code': r"""
-          >>> haveLaws.num_rows == 3864
+          >>> max(samples) < 1200
           True
-          >>> noLaws.num_rows == 1679
+          >>> min(samples) > -1200
           True
           """,
           'hidden': False,

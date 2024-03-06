@@ -6,15 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> changes(make_array(10, 7, 12, 9, 13, 9, 11, 2, 14, 7, 19)) == 4
-          True
-          """,
-          'hidden': False,
-          'locked': False
-        }, 
-          {
-          'code': r"""
-          >>> changes(make_array(10, 7, 12, 9, 13, 9, 11, 2, 14, 7, 19, 382, 22, 392), 5) == 3
+          >>> 26 < t < 28
           True
           """,
           'hidden': False,

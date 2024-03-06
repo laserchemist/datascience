@@ -1,12 +1,12 @@
 test = {
-  'name': 'Question 6',
+  'name': 'Question 2',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> test_stat == 1140
+          >>> 1.45 <= mean_diff <= 1.50
           True
           """,
           'hidden': False,

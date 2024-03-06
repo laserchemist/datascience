@@ -1,12 +1,12 @@
 test = {
-  'name': 'Question 2',
+  'name': 'Question 13',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> us.num_rows >= 100
+          >>> test_stat == 1140
           True
           """,
           'hidden': False,

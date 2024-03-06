@@ -1,12 +1,12 @@
 test = {
-  'name': 'Question 4',
+  'name': 'Question 12',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> changes(make_array(10, 7, 12, 9, 13, 9, 11, 2, 14, 7, 19)) == 4
+          >>> changes_by_country.num_rows == 242
           True
           """,
           'hidden': False,
@@ -14,8 +14,13 @@ test = {
         }, 
           {
           'code': r"""
-          >>> changes(make_array(10, 7, 12, 9, 13, 9, 11, 2, 14, 7, 19, 382, 22, 392), 5) == 3
-          True
+          >>> changes_by_country.take(np.arange(5))
+          country        | avg changes
+          Afghanistan    | 18
+          Africa         | 8
+          Albania        | -22
+          Algeria        | 9
+          American Samoa | -3
           """,
           'hidden': False,
           'locked': False

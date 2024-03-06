@@ -6,21 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> changes_by_country.num_rows == 242
+          >>> p < 0.001
           True
-          """,
-          'hidden': False,
-          'locked': False
-        }, 
-          {
-          'code': r"""
-          >>> changes_by_country.take(np.arange(5))
-          country        | avg changes
-          Afghanistan    | 18
-          Africa         | 8
-          Albania        | -22
-          Algeria        | 9
-          American Samoa | -3
           """,
           'hidden': False,
           'locked': False
