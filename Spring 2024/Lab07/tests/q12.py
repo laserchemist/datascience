@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> changes_by_country.num_rows == 242
+          >>> changes_by_country.num_rows == 233
           True
           """,
           'hidden': False,
@@ -14,10 +14,9 @@ test = {
         }, 
           {
           'code': r"""
-          >>> changes_by_country.take(np.arange(5))
+          >>> changes_by_country.take(np.arange(4))
           country        | avg changes
           Afghanistan    | 18
-          Africa         | 8
           Albania        | -22
           Algeria        | 9
           American Samoa | -3

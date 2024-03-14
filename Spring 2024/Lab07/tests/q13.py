@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> test_stat == 1140
+          >>> test_stat == 1118
           True
           """,
           'hidden': False,
