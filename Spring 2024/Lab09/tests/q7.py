@@ -7,16 +7,16 @@ test = {
         {
           'code': r"""
           >>> # Testing the slope
-          >>> abs(fit_line(example_table)[0] - 2) < .5
+          >>> abs(fit_line(example_table, "Speed (parsecs/year)", "Distance (million parsecs)" )[0] - 2) < .5
           True
           >>> # Testing the intercept
-          >>> abs(fit_line(example_table)[1] - 1) < .5
+          >>> abs(fit_line(example_table, "Speed (parsecs/year)", "Distance (million parsecs)" )[1] - 1) < .5
           True
           >>> # Testing the slope
-          >>> abs(fit_line(close_novas)[0] - 14094) < 5 
+          >>> abs(fit_line(close_novas, "Speed (parsecs/year)", "Distance (million parsecs)" )[0] - 14094) < 5 
           True
           >>> # Testing the intercept
-          >>> abs(fit_line(close_novas)[1] - 2) < .5
+          >>> abs(fit_line(close_novas, "Speed (parsecs/year)", "Distance (million parsecs)" )[1] - 2) < .5
           True
           """,
           'hidden': False,
