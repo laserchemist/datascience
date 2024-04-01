@@ -6,9 +6,9 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> abs(upper_end/1e9 - 14.5) < .3
+          >>> abs(upper_end - 14.5) < .3
           True
-          >>> abs(lower_end/1e9 - 13.5) < .3
+          >>> abs(lower_end - 13.5) < .3
           True
           """,
           'hidden': False,
