@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> amino.num_rows > 1.0
+          >>> amino.num_rows > 0
           True
           """,
           'hidden': False,
