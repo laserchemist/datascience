@@ -67,11 +67,6 @@ def MolTo3DView(mol, size=(300, 300), style="stick", surface=False, opacity=0.5,
     viewer.setStyle({style:{}})
     if surface:
         viewer.addSurface(py3Dmol.SAS, {'opacity': opacity})
-    if label:
-        const s2 = viewer.addSphere({ radius: 1.25, center: { x: 1.32, y: 2.91, z: -1.49 } });
-        s2.wireframe = true; s2.color = $3Dmol.CC.color("purple");
-        viewer.addLabel("Aromatic", { position: { x: 1.32, y: 2.91, z: -1.49 }, backgroundColor: 0x800080, backgroundOpacity: 0.8 });
-
     viewer.zoomTo()
     return viewer
 def smiles3D(smiles):
