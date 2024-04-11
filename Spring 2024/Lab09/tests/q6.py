@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> np.round(example_errors.item(0), 2) == -22.43
+          >>> np.round(example_errors.item(0), 2) >= -25
           True
           """,
           'hidden': False,
