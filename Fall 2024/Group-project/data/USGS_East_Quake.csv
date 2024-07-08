@@ -1,0 +1,292 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-04-07T04:39:00.621Z,47.0315,-76.2258,10,3.3,mb_lg,16,113,1.412,0.43,us,us7000majq,2024-04-08T03:18:08.140Z,"61 km NNW of Saint-Boniface, Canada",earthquake,4.58,1.987,0.054,92,reviewed,us,us
+2024-04-05T21:59:13.778Z,40.6854,-74.7348,8.518,3.8,mwr,33,107,0.65,0.43,us,us7000mab9,2024-04-10T08:44:31.586Z,"7 km SW of Gladstone, New Jersey",earthquake,0.96,7.63,0.071,19,reviewed,us,us
+2024-04-05T14:23:20.309Z,40.689,-74.754,4.7,4.8,mwr,233,54,0.642,0.66,us,us7000ma74,2024-04-10T10:34:14.205Z,"2024 Whitehouse Station, New Jersey Earthquake",earthquake,2.02,1.84,0.027,130,reviewed,us,us
+2024-03-30T08:42:40.005Z,40.8966,-81.0503,5.887,3,mb_lg,16,52,0.185,0.2,us,us7000m8wh,2024-04-05T16:10:27.481Z,"2 km S of Maple Ridge, Ohio",earthquake,1.16,4.04,0.052,98,reviewed,us,us
+2024-02-08T03:48:06.519Z,28.554,-78.8645,7.991,4,mb,56,121,2.011,0.73,us,us7000lxp2,2024-03-09T02:17:29.988Z,"171 km E of Cape Canaveral, Florida",earthquake,6.35,8.035,0.299,3,reviewed,us,us
+2024-02-01T12:37:19.663Z,45.1027,-74.2494,8.17,3.2,mb_lg,21,86,0.538,0.36,us,us7000lvtq,2024-03-13T11:55:03.040Z,"6 km WNW of Huntingdon, Canada",earthquake,4.11,3.973,0.061,71,reviewed,us,us
+2024-01-13T02:22:25.348Z,42.5042,-65.9881,10,3.2,ml,16,224,2.447,0.58,us,us6000m4dx,2024-03-16T18:59:24.040Z,"148 km S of Yarmouth, Canada",earthquake,6.38,2.011,0.056,42,reviewed,us,us
+2023-12-30T09:24:48.843Z,45.9704,-75.2458,9.428,3.2,mb_lg,39,89,0.543,0.37,us,us6000m0l5,2024-03-02T21:39:33.040Z,"13 km WSW of Notre-Dame-du-Mont-Carmel, Canada",earthquake,3.69,10.557,0.056,83,reviewed,us,us
+2023-12-27T17:46:56.360Z,35.7716666666667,-90.1908333333333,11.2,3.8,mw,80,58,0.03771,0.19,nm,nm60563441,2024-03-02T21:39:32.040Z,"6 km NE of Etowah, Arkansas",earthquake,0.26,0.37,,0,reviewed,nm,nm
+2023-12-18T04:10:33.370Z,38.2325,-89.0951666666667,16.71,3.07,md,49,51,0.5258,0.25,nm,nm60562761,2024-03-29T01:12:08.150Z,"5 km WNW of Waltonville, Illinois",earthquake,0.32,0.53,0.195899048705384,26,reviewed,nm,nm
+2023-12-17T20:19:14.288Z,47.2078,-76.6533,9.892,4,mb,38,70,1.234,0.66,us,us7000ljqr,2024-02-27T22:57:00.040Z,"93 km NNW of Saint-Boniface, Canada",earthquake,2.53,6.309,0.125,19,reviewed,us,us
+2023-11-19T02:33:54.428Z,48.598,-69.1172,9.96,3,ml,10,165,1.327,0.32,us,us6000lq0q,2024-02-01T15:13:42.040Z,"15 km S of Forestville, Canada",earthquake,2.36,7.473,0.069,28,reviewed,us,us
+2023-11-15T10:41:55.916Z,41.2402,-89.1858,5.688,3.6,mb_lg,64,28,0.689,0.45,us,us6000lnhy,2024-01-26T16:37:43.040Z,"1 km SSW of Standard, Illinois",earthquake,1.61,6.992,0.038,180,reviewed,us,us
+2023-10-21T02:59:33.580Z,36.1868333333333,-89.4516666666667,11.26,3.26,md,77,34,0.04368,0.16,nm,nm60556241,2023-12-26T21:24:50.040Z,"9 km SSE of Ridgely, Tennessee",earthquake,0.18,0.31,0.159978137201974,44,reviewed,nm,nm
+2023-08-28T02:43:26.223Z,41.7313,-80.972,5,3.6,mwr,86,47,0.829,0.71,us,us7000krer,2023-11-04T21:35:38.040Z,"7 km SE of Madison, Ohio",earthquake,4.46,1.862,0.041,58,reviewed,us,us
+2023-06-05T04:16:14.474Z,28.4777,-88.0417,5,3.3,ml,66,117,2.817,0.69,us,us7000k6cb,2023-08-12T17:15:03.040Z,"155 km SE of Venice, Louisiana",earthquake,5.61,1.969,0.077,22,reviewed,us,us
+2023-06-04T10:09:35.150Z,35.5796666666667,-82.8723333333333,0.1,3.24,md,28,43,0.102,0.3,se,se60500788,2023-08-12T17:15:02.040Z,"4 km NNW of West Canton, North Carolina",earthquake,0.52,1.93,0.0542955152368947,21,reviewed,se,se
+2023-05-30T02:45:20.910Z,37.5391666666667,-87.3303333333333,0.45,3.03,md,23,105,0.1234,0.3,nm,nm60500758,2023-08-05T22:07:39.040Z,"6 km W of Calhoun, Kentucky",earthquake,0.8,1.59,0.131469903633767,12,reviewed,nm,nm
+2023-04-24T22:16:17.744Z,47.1382,-76.1399,9.813,3.4,mb_lg,25,119,1.43,0.39,us,us7000jvnf,2024-01-18T19:51:38.712Z,"71 km NW of Ferme-Neuve, Canada",earthquake,4.43,7.379,0.059,77,reviewed,us,us
+2023-04-23T18:10:08.198Z,43.8635,-76.0202,8.68,3.6,mwr,63,38,0.454,0.5,us,us6000k6kx,2024-04-05T14:54:40.551Z,"New York",earthquake,2.55,4.258,0.046,45,reviewed,us,us
+2023-04-19T16:07:01.146Z,32.6203,-70.8364,10,4.5,mb,120,71,5.194,1,us,us6000k5k8,2023-07-03T02:47:08.040Z,"off the east coast of the United States",earthquake,8.55,1.802,0.054,100,reviewed,us,us
+2023-02-10T03:10:58.540Z,36.5463333333333,-89.7118333333333,6.63,3.12,md,71,25,0.03816,0.14,nm,nm60509971,2023-04-15T21:39:52.040Z,"7 km S of Catron, Missouri",earthquake,0.14,0.45,0.153181398347796,56,reviewed,nm,nm
+2023-02-06T11:15:49.769Z,42.8605,-78.7853,5.677,3.8,mb_lg,23,114,0.389,0.47,us,us6000jlqv,2024-04-05T14:56:23.706Z,"1 km NE of West Seneca, New York",earthquake,2.18,7.439,0.208,6,reviewed,us,us
+2023-01-28T15:30:45.114Z,49.0646,-68.1999,10.599,3,ml,9,170,0.761,0.42,us,us6000jk4e,2023-04-11T18:51:39.040Z,"15 km SSE of Hauterive, Canada",earthquake,4.94,9.151,0.074,24,reviewed,us,us
+2023-01-14T06:27:22.051Z,44.6651,-68.5787,9.593,3.3,mb_lg,23,123,0.78,0.34,us,us7000j4c9,2023-04-05T16:32:14.310Z,"7 km ESE of Dedham, Maine",earthquake,2.09,7.056,0.079,43,reviewed,us,us
+2022-11-15T02:23:33.302Z,45.7212,-73.6966,7.952,3,mb_lg,28,82,0.227,0.39,us,us7000iprx,2023-10-15T04:49:14.617Z,"southern Quebec, Canada",earthquake,1.85,7.558,0.073,50,reviewed,us,us
+2022-11-11T06:09:30.880Z,36.3435,-89.433,4.38,3.19,md,57,35,0.05148,0.17,nm,nm60415496,2023-01-21T19:27:21.040Z,"5 km SE of Tiptonville, Tennessee",earthquake,0.18,0.26,0.152904569240703,44,reviewed,nm,nm
+2022-08-17T06:55:10.672Z,44.687,-67.6413,5,3,mb_lg,13,173,0.133,0.23,us,us6000ibip,2022-10-28T02:26:41.040Z,"3 km SE of Centerville, Maine",earthquake,1.73,1.981,0.082,39,reviewed,us,us
+2022-08-11T07:37:15.846Z,49.0129,-67.995,10.501,3,mb_lg,22,113,0.696,0.25,us,us6000i9wg,2022-10-21T23:20:28.040Z,"25 km SSE of Baie-Comeau, Canada",earthquake,5.23,8.536,0.106,23,reviewed,us,us
+2022-06-29T23:03:01.140Z,34.1653333,-80.727,2.75,3.6,mw,26,41,0.03873,0.34,se,se60401416,2024-03-09T14:53:01.630Z,"6 km E of Elgin, South Carolina",earthquake,0.52,0.75,,0,reviewed,se,se
+2022-06-29T18:43:56.890Z,34.1668333,-80.7286667,2.68,3.5,mw,24,41,0.04077,0.27,se,se60401376,2022-10-31T01:55:52.775Z,"6 km E of Elgin, South Carolina",earthquake,0.38,0.6,,29,reviewed,se,se
+2022-06-26T05:31:54.680Z,34.1666667,-80.7246667,3.52,3.4,mw,25,63,0.03841,0.33,se,se60400941,2024-03-27T05:51:54.048Z,"6 km E of Elgin, South Carolina",earthquake,0.52,0.64,,25,reviewed,se,se
+2022-06-18T08:05:23.720Z,32.4525,-82.1405,0.75,3.9,mw,23,60,0.8316,0.29,se,se60400186,2022-09-12T22:05:12.183Z,"7 km E of Stillmore, Georgia",earthquake,0.52,0.12,,96,reviewed,se,se
+2022-05-31T08:40:31.990Z,36.1851667,-89.3806667,11.19,3.21,md,80,48,0.04494,0.14,nm,nm60397126,2023-11-07T17:14:57.368Z,"12 km SE of Ridgely, Tennessee",earthquake,0.17,0.26,0.13,73,reviewed,nm,nm
+2022-05-09T05:32:47.550Z,34.1588333,-80.731,3.95,3.25,md,24,63,0.03703,0.32,se,se60393731,2023-06-07T03:22:20.472Z,"5 km ESE of Elgin, South Carolina",earthquake,0.49,0.69,0.086,18,reviewed,se,se
+2022-01-13T07:42:38.881Z,48.9851,-68.0734,14.83,3,ml,,159,0.751,0.18,us,us7000gbtq,2022-03-19T22:07:57.040Z,"26 km SSE of Baie-Comeau, Canada",earthquake,3.7,9,0.074,24,reviewed,us,us
+2022-01-10T07:44:57.734Z,47.652,-69.823,17.97,3.2,mb_lg,,113,0.775,0.33,us,us7000gahx,2022-03-19T22:07:35.040Z,"14 km N of Saint-Pascal, Canada",earthquake,3.5,7.5,0.098,27,reviewed,us,us
+2021-12-27T19:18:54.190Z,34.1823333,-80.7196667,3.07,3.3,mlg,21,62,0.3184,0.4,se,se60377836,2023-07-24T19:54:58.008Z,"5 km SSW of Lugoff, South Carolina",earthquake,0.64,1.4,,0,reviewed,se,se
+2021-12-22T06:20:48.490Z,32.7843333,-86.7655,0.01,3.1,md,9,92,0.3212,0.38,se,se60140943,2022-03-01T16:39:16.040Z,"10 km E of Maplesville, Alabama",earthquake,1.53,0.16,0.142,13,reviewed,se,se
+2021-12-12T17:52:56.070Z,38.691,-83.5815,14.51,3.04,md,18,89,0.2959,0.22,se,se60140143,2022-10-25T16:50:09.390Z,"2 km E of Manchester, Ohio",earthquake,0.39,0.59,0.137,11,reviewed,se,se
+2021-11-18T02:53:03.820Z,36.9076667,-90.543,16.46,4,mw,99,44,0.1577,0.23,nm,nm60363582,2023-11-26T20:23:50.603Z,"7 km S of Williamsville, Missouri",earthquake,0.26,0.31,,0,reviewed,nm,nm
+2021-10-26T10:29:59.740Z,36.8943,-82.9601,0,3.1,mb_lg,,26,0.588,0.43,us,us6000fxkz,2022-01-08T17:42:40.040Z,"Tennessee-Virginia border region",mining explosion,1.2,2,0.053,93,reviewed,us,us
+2021-09-27T22:21:57.620Z,32.944,-80.154,6.75,3.27,md,17,83,0.01826,0.13,se,se60370971,2021-12-20T01:46:52.957Z,"South Carolina",earthquake,0.24,0.26,0.205,22,reviewed,se,se
+2021-09-13T04:04:58.610Z,36.2423333,-89.41,9.36,3.28,md,84,46,0.01474,0.13,nm,nm60369491,2021-11-23T15:11:05.040Z,"7 km ESE of Ridgely, Tennessee",earthquake,0.15,0.29,0.072,62,reviewed,nm,nm
+2021-08-27T15:49:29.298Z,46.8485,-76.5006,14.41,3.3,mwr,,103,1.486,0.63,us,us7000f4w1,2021-11-06T20:29:00.040Z,"55 km NW of Saint-Boniface, Canada",earthquake,5.2,7.1,,10,reviewed,us,slm
+2021-08-13T11:57:34.970Z,35.9163333,-84.8531667,0.17,4.3,mw,27,32,0.2706,0.44,se,se60133543,2021-10-29T14:46:06.040Z,"2 km ENE of Crab Orchard, Tennessee",mine collapse,0.84,4.51,,8,reviewed,se,se
+2021-08-13T11:57:17.150Z,35.8766667,-84.8981667,0.03,3.09,md,24,51,0.2842,0.64,se,se60353147,2021-10-29T14:46:06.040Z,"4 km SSW of Crab Orchard, Tennessee",mine collapse,1.28,6.37,0.063,20,reviewed,se,se
+2021-08-08T19:55:18.252Z,30.1465,-79.6066,0,3.9,ml,,109,2.164,0.82,us,us6000f3fj,2021-10-23T15:45:54.040Z,"163 km E of Saint Augustine Beach, Florida",experimental explosion,7.1,1.9,0.055,44,reviewed,us,us
+2021-07-16T17:48:33.533Z,30.0852,-79.3251,0,3.9,ml,,110,2.415,0.75,us,us7000emme,2021-09-25T21:07:51.040Z,"186 km ENE of Flagler Beach, Florida",experimental explosion,3,2,0.055,44,reviewed,us,us
+2021-06-18T19:48:39.595Z,29.7433,-79.3493,0,3.9,ml,,108,2.445,0.58,us,us7000ee8n,2021-10-12T02:09:54.857Z,"169 km ENE of Ponce Inlet, Florida",experimental explosion,6.3,2,0.059,38,reviewed,us,us
+2021-06-17T19:18:02.410Z,39.8305,-87.2866667,6.26,3.82,mw,21,89,0.5669,0.34,nm,nm60344372,2023-11-26T20:27:42.213Z,"Illinois-Indiana border region",earthquake,0.36,0.71,,0,reviewed,nm,nm
+2021-05-17T11:03:22.854Z,45.8075,-73.5278,12.09,3.3,mb_lg,,95,0.314,0.49,us,us7000e3rp,2023-10-15T05:01:58.062Z,"5 km SW of L'Épiphanie, Canada",earthquake,1.6,6.5,0.062,67,reviewed,us,us
+2020-12-09T12:31:16.046Z,45.0951,-67.1595,7.72,3,ml,,110,0.226,0.2,us,us7000cpfi,2021-02-20T16:10:55.040Z,"4 km WNW of Robbinston, Maine",earthquake,1.4,7.9,0.064,32,reviewed,us,us
+2020-11-08T14:10:06.958Z,41.5208,-70.9546,10,3.6,mwr,,162,0.234,0.72,us,us7000cc4d,2024-04-06T20:51:42.989Z,"10 km S of Bliss Corner, Massachusetts",earthquake,2,1.9,0.05,38,reviewed,us,us
+2020-10-30T18:28:42.260Z,48.4066,-78.5086,2.38,3.6,mb_lg,,80,0.546,0.42,us,us7000c84u,2021-01-18T23:01:49.040Z,"34 km WSW of Amos, Canada",earthquake,5.9,7.2,0.085,36,reviewed,us,us
+2020-09-09T06:00:13.553Z,40.3023,-74.2892,5.61,3.1,mb_lg,,146,0.434,0.53,us,us7000bk7f,2024-04-05T15:26:05.019Z,"3 km WSW of Marlboro, New Jersey",earthquake,2,1.5,0.052,96,reviewed,us,us
+2020-09-03T15:07:53.153Z,31.0271,-87.1846,4,3.8,mwr,,78,0.182,0.8,us,us7000bh6x,2020-12-05T16:29:19.553Z,"1 km W of Pollard, Alabama",earthquake,2.4,1.9,0.063,24,reviewed,us,us
+2020-08-30T02:34:42.510Z,35.5386667,-90.4556667,8.16,3.6,mw,73,37,0.01117,0.19,nm,nm60327326,2020-11-07T18:48:35.040Z,"3 km WNW of Marked Tree, Arkansas",earthquake,0.2,0.31,,0,reviewed,nm,nm
+2020-08-21T22:55:09.777Z,41.9125,-83.3179,9.2,3.2,mwr,,80,0.463,0.6,us,us6000bis9,2024-01-25T01:41:50.365Z,"2 km SSE of Detroit Beach, Michigan",earthquake,0.9,5.3,0.083,14,reviewed,us,us
+2020-08-09T12:07:37.650Z,36.4743333,-81.0865,4.14,5.1,mw,34,50,0.4521,0.38,se,se60324281,2024-04-07T01:51:43.830Z,"4 km SE of Sparta, North Carolina",earthquake,0.4,1.81,,0,reviewed,se,se
+2020-05-10T08:33:14.740Z,35.1405,-85.8918333,8.43,3.13,md,26,41,0.0822,0.18,se,se60316866,2020-07-29T22:14:27.040Z,"7 km SSE of Sewanee, Tennessee",earthquake,0.29,0.57,0.062,21,reviewed,se,se
+2020-05-09T19:04:19.037Z,47.0127,-75.8523,15.64,3.6,mwr,,102,1.198,0.5,us,us70009dfq,2023-10-15T05:01:15.996Z,"46 km NW of Ferme-Neuve, Canada",earthquake,5,3.4,0.086,13,reviewed,us,us
+2020-05-06T15:03:41.193Z,45.0596,-72.8946,14.1,3.1,mb_lg,,100,0.541,0.65,us,us70009b45,2020-07-29T22:14:10.040Z,"9 km SE of Bedford, Canada",earthquake,1.8,8,0.077,44,reviewed,us,us
+2020-03-29T07:21:04.745Z,45.8485,-73.528,10.51,3,mb_lg,,85,0.354,0.42,us,us70008i6u,2020-06-13T18:44:39.040Z,"3 km W of L'Épiphanie, Canada",earthquake,3.7,8.6,0.07,53,reviewed,us,us
+2020-03-11T10:43:39.657Z,43.2925,-73.6371,12.55,3.1,mb_lg,,51,0.094,0.32,us,us60008dlh,2021-03-02T19:11:41.452Z,"0 km SSW of South Glens Falls, New York",earthquake,2.1,4.3,0.058,78,reviewed,us,us
+2020-01-20T19:12:11.260Z,36.4305,-84.0268333,34.84,3.8,mb,36,32,0.1218,0.18,se,se60300191,2023-12-08T00:59:14.768Z,"2 km NE of Fincastle, Tennessee",earthquake,0.27,0.37,,6,reviewed,se,se
+2020-01-13T10:37:59.295Z,44.993,-73.9659,6.41,3.4,mb_lg,,71,0.562,0.28,us,us70006z44,2024-04-05T15:30:56.544Z,"5 km SW of Franklin, Canada",earthquake,1.4,3.4,0.062,67,reviewed,us,us
+2019-11-15T04:14:48.290Z,48.2761,-71.014,19.11,3,mb_lg,,191,0.348,0.32,us,us60006bv5,2020-02-07T20:21:20.040Z,"16 km SSE of Saguenay, Canada",earthquake,3.5,7.4,0.114,20,reviewed,us,us
+2019-10-12T13:55:25.560Z,36.5545,-89.6478333,8.28,3.04,md,72,21,0.02981,0.16,nm,nm60290066,2019-12-28T20:45:48.040Z,"4 km WSW of Howardville, Missouri",earthquake,0.16,0.32,0.077,69,reviewed,nm,nm
+2019-09-27T08:47:45.850Z,36.5558333,-89.6481667,8.23,3.27,md,67,22,0.03076,0.12,nm,nm60287956,2019-12-20T19:03:11.040Z,"4 km WSW of Howardville, Missouri",earthquake,0.15,0.32,0.142,71,reviewed,nm,nm
+2019-09-27T04:42:20.120Z,36.7713333,-89.2541667,16.82,3.03,md,53,41,0.09948,0.15,nm,nm60287946,2019-12-20T19:03:09.040Z,"6 km NE of Pinhook, Missouri",earthquake,0.19,0.39,0.12,50,reviewed,nm,nm
+2019-08-29T12:12:47.107Z,47.303,-70.434,3.69,3.3,mwr,,89,0.256,0.62,us,us700059m4,2019-11-15T17:20:03.040Z,"15 km NW of St-Jean-Port-Joli, Canada",earthquake,3,9.5,0.075,17,reviewed,us,us
+2019-07-13T17:56:47.134Z,47.1679,-76.326,15.24,3.7,mb_lg,,108,1.407,0.5,us,us70004jmv,2019-09-28T20:00:30.040Z,"78 km NNW of Saint-Boniface, Canada",earthquake,4.7,6.5,0.052,95,reviewed,us,us
+2019-06-13T00:30:57.950Z,40.4218333,-77.5056667,26.71,3.44,ml,45,36,0.2605,0.4,ld,ld60171121,2024-04-05T15:34:04.821Z,"9 km N of Blain, Pennsylvania",earthquake,0.41,0.5,0.153,8,reviewed,ld,ld
+2019-06-10T14:50:45.302Z,41.6797,-81.4564,2,4,mb,,30,0.157,0.51,us,us70003xny,2023-08-28T16:13:59.778Z,"1 km NW of Timberlake, Ohio",earthquake,4.4,1.9,0.108,27,reviewed,us,us
+2019-06-01T21:22:51.889Z,26.1818,-66.6189,10,4.2,mb,,140,6.219,0.94,us,us70003u8q,2019-08-24T21:17:46.040Z,"North Atlantic Ocean",earthquake,5.7,1.9,0.167,10,reviewed,us,us
+2019-04-24T10:56:54.100Z,36.1358333,-89.4398333,14.16,3.69,mw,79,60,0.05408,0.12,nm,nm60268341,2023-11-26T20:36:40.645Z,"12 km NNW of Dyersburg, Tennessee",earthquake,0.15,0.22,,50,reviewed,nm,nm
+2019-04-11T20:11:00.727Z,31.0832,-87.1989,9.54,3.1,mwr,,83,0.047,0.52,us,us700034pm,2019-06-20T19:03:18.040Z,"6 km NNW of Pollard, Alabama",earthquake,2.5,3.2,,4,reviewed,us,slm
+2019-04-09T11:22:43.100Z,40.398,-71.9855,7.06,3.04,ml,9,245,1.006,0.23,ld,ld60168101,2021-05-13T22:01:35.060Z,"63 km SSE of Sagaponack, New York",earthquake,1.25,31.61,0.233,11,reviewed,ld,ld
+2019-03-11T18:36:21.090Z,31.0414,-87.2687,5,3.1,mb_lg,,163,0.226,0.44,us,us1000jdt6,2019-05-24T21:21:33.040Z,"4 km N of Flomaton, Alabama",earthquake,2.8,2,0.102,25,reviewed,us,us
+2019-03-05T20:56:02.390Z,36.2955,-83.7356667,17.07,3.37,md,33,37,0.1815,0.11,se,se60233907,2020-01-23T11:43:13.995Z,"7 km NE of Maynardville, Tennessee",earthquake,0.32,0.46,0.195,31,reviewed,se,se
+2019-02-08T07:23:37.310Z,46.5065,-81.1683,2.2,3.1,mb_lg,,127,2.174,0.58,us,us2000jf93,2022-08-08T12:08:53.542Z,"7 km SW of Azilda, Canada",earthquake,6.3,5.9,0.068,57,reviewed,us,us
+2019-01-15T23:30:48.660Z,37.2318,-73.0097,10,4.6,mww,,74,2.146,1.2,us,us2000j4bf,2024-04-05T19:50:12.763Z,"220 km SE of Ocean City, Maryland",earthquake,6.8,1.9,0.089,12,reviewed,us,us
+2019-01-10T13:49:00.570Z,45.3837,-66.2921,5,3.4,mwr,,121,0.47,0.36,us,us2000j2is,2019-04-02T20:51:58.040Z,"22 km NW of Saint John, Canada",earthquake,4.9,2,,6,reviewed,us,slm
+2018-12-16T04:12:02.030Z,36.0383333,-83.6955,19.69,3.01,md,25,44,0.1909,0.19,se,se60222112,2019-03-05T21:06:28.148Z,"5 km ESE of Mascot, Tennessee",earthquake,0.29,0.75,0.091,22,reviewed,se,se
+2018-12-12T09:14:43.610Z,35.6123333,-84.732,7.87,4.4,mw,32,40,,0.14,se,se60247871,2023-08-23T05:28:54.620Z,"12 km NNE of Decatur, Tennessee",earthquake,0.22,0.66,,0,reviewed,se,se
+2018-11-22T01:55:41.000Z,36.4481667,-89.5365,9.77,3.12,md,71,27,0.05864,0.1,nm,nm60245401,2019-02-02T20:02:28.040Z,"9 km NW of Tiptonville, Tennessee",earthquake,0.11,0.24,0.1,70,reviewed,nm,nm
+2018-10-22T11:06:20.250Z,36.2715,-89.4448333,6.52,3.27,md,52,48,0.02981,0.08,nm,nm60216622,2019-04-24T11:34:50.848Z,"3 km ENE of Ridgely, Tennessee",earthquake,0.14,0.31,0.1,44,reviewed,nm,nm
+2018-05-08T21:27:39.510Z,43.7347,-78.949,5.05,3,mb_lg,,,,0.52,us,us1000e121,2018-08-08T15:19:40.040Z,"14 km SSE of Ajax, Canada",earthquake,1.2,3.5,,,reviewed,ott,ott
+2018-05-06T16:47:09.220Z,27.871,-88.6778,10,4.6,mb,,71,2.684,0.77,us,us1000dzed,2019-07-18T05:24:54.376Z,"169 km SSE of Venice, Louisiana",earthquake,7.1,1.9,0.042,170,reviewed,us,us
+2018-04-29T22:32:08.320Z,36.2968333,-83.3895,21.17,3.1,md,30,50,0.07607,0.15,se,se60197892,2019-02-23T08:49:19.978Z,"10 km WSW of Bean Station, Tennessee",earthquake,0.22,0.49,0.058,25,reviewed,se,se
+2018-04-20T00:01:35.350Z,42.1181,-83.015,2.7,3.4,mwr,,27,0.51,0.73,us,us1000dny9,2022-01-22T23:19:13.937Z,"Michigan",earthquake,1.7,2.9,0.098,10,reviewed,us,us
+2018-04-17T22:59:24.170Z,46.6803,-75.6085,18,3.4,mb_lg,,,,0.94,us,us1000dqct,2018-07-17T02:05:29.040Z,"12 km W of Ferme-Neuve, Canada",earthquake,3.3,2,,,reviewed,ott,ott
+2018-01-29T22:04:06.850Z,46.3973,-75.3136,18,3,mb_lg,,,,0.82,us,us2000cr6s,2018-04-25T01:39:36.040Z,"22 km SE of Mont-Laurier, Canada",earthquake,3.1,2,,,reviewed,ott,ott
+2018-01-21T06:08:55.950Z,46.3836,-75.0633,16.84,3,mb_lg,,102,0.391,0.75,us,us2000cmb5,2018-04-10T01:11:50.040Z,"15 km WSW of Rivière-Rouge, Canada",earthquake,3.8,2.7,,,reviewed,us,ott
+2018-01-16T16:57:54.810Z,36.1631667,-89.686,9.42,3.64,mw,73,36,0.04498,0.13,nm,nm60186242,2023-11-26T20:41:40.668Z,"4 km SW of Caruthersville, Missouri",earthquake,0.13,0.38,,9,reviewed,nm,nm
+2018-01-04T15:42:27.560Z,46.9007,-70.7725,18,3.4,mb_lg,,,,0.79,us,us1000c0wi,2022-08-07T22:47:50.508Z,"18 km SSE of Beaupré, Canada",earthquake,5,7.7,,,reviewed,ott,ott
+2017-12-28T08:51:13.590Z,47.0709,-76.2872,16.29,3.6,mb_lg,,71,0.55,0.58,us,us1000bx2j,2018-03-17T01:54:37.040Z,"67 km NNW of Saint-Boniface, Canada",earthquake,1.3,6.7,0.051,100,reviewed,us,us
+2017-11-30T21:47:31.250Z,39.1977,-75.4325,9.87,4.1,mwr,,129,0.633,1.3,us,us1000bjkn,2024-04-05T19:13:46.641Z,"3 km NNE of Little Creek, Delaware",earthquake,2.5,4.4,0.031,100,reviewed,ld,us
+2017-10-19T11:08:55.000Z,46.18,-74.75,10,3.1,mb_lg,,,,1.11,us,us1000auge,2018-01-11T02:22:07.040Z,"2 km NNW of Lac-Simon, Canada",earthquake,3,8.3,,,reviewed,ott,ott
+2017-10-15T10:16:25.870Z,35.834,-90.117,16.61,3.64,mw,69,32,0.04726,0.15,nm,nm60181262,2018-01-11T02:22:01.040Z,"6 km SE of Manila, Arkansas",earthquake,0.24,0.19,,280,reviewed,nm,nm
+2017-10-06T06:16:43.000Z,49.06,-67.92,22,3.3,mb_lg,,,,0.38,us,us2000b2dh,2018-01-03T01:54:47.040Z,"24 km SE of Baie-Comeau, Canada",earthquake,4.4,7.8,,,reviewed,ott,ott
+2017-09-19T11:47:28.710Z,38.4238333,-87.9098333,11.68,3.8,mw,36,31,0.1008,0.18,nm,nm60207021,2020-03-05T14:13:51.248Z,"4 km N of Bellmont, Illinois",earthquake,0.25,0.43,,62,reviewed,nm,nm
+2017-09-13T17:33:10.930Z,37.4728333,-80.703,17.77,3.2,md,20,48,0.3449,0.16,se,se60179327,2019-10-27T15:06:51.518Z,"11 km NE of Peterstown, West Virginia",earthquake,0.32,0.77,0.19,23,reviewed,se,se
+2017-09-09T04:15:29.110Z,38.425,-87.913,11.76,3.06,md,32,37,0.1032,0.17,nm,nm60179177,2017-12-29T15:42:42.253Z,"4 km N of Bellmont, Illinois",earthquake,0.23,0.5,0.095,33,reviewed,nm,nm
+2017-08-18T15:18:21.070Z,36.4465,-89.5915,12.57,3.18,md,73,28,0.02964,0.11,nm,nm60177702,2022-08-07T15:07:58.470Z,"8 km SSE of Marston, Missouri",earthquake,0.12,0.21,0.094,55,reviewed,nm,nm
+2017-07-31T14:50:34.000Z,45.88,-75.46,21.5,3.1,mb_lg,,,,0.48,us,us2000a5ah,2017-10-18T01:54:11.040Z,"30 km NNE of Val-des-Monts, Canada",earthquake,4.7,8.9,,,reviewed,ott,ott
+2017-07-31T02:16:19.620Z,36.3061667,-89.4903333,4.81,3.05,md,72,27,0.02404,0.15,nm,nm60203501,2017-10-18T01:54:11.040Z,"4 km N of Ridgely, Tennessee",earthquake,0.15,0.19,0.261,52,reviewed,nm,nm
+2017-07-01T18:07:32.460Z,38.85,-89.2275,16.79,3.12,mw,23,88,0.1728,0.16,nm,nm60173557,2017-09-27T02:03:21.040Z,"9 km SSE of Mulberry Grove, Illinois",earthquake,0.22,0.3,,12,reviewed,nm,nm
+2017-06-20T15:14:04.910Z,33.4275,-82.0168333,12.93,3.2,mlg,25,46,0.347,0.19,se,se60172262,2021-08-17T16:57:40.839Z,"6 km SW of Augusta, Georgia",earthquake,0.35,0.81,,94,reviewed,se,se
+2017-06-03T03:08:40.020Z,39.9166,-81.2934,1.73,3.4,mwr,,23,0.338,0.59,us,us20009kfw,2019-03-05T23:17:56.298Z,"1 km WNW of Batesville, Ohio",earthquake,1.7,6.5,,39,reviewed,us,slm
+2017-05-24T16:24:05.210Z,39.2296,-82.4759,10,3.4,mb_lg,,17,0.312,0.56,us,us10008uvu,2019-02-15T18:29:48.485Z,"1 km S of McArthur, Ohio",earthquake,4.6,8.1,0.041,158,reviewed,us,us
+2017-05-22T19:05:51.000Z,47.071,-70.935,18,3,mb_lg,,,,0.42,us,us10008ubi,2017-08-10T01:33:58.040Z,"4 km NW of Beaupré, Canada",earthquake,3.6,2,,,reviewed,ott,ott
+2017-05-16T10:21:52.240Z,36.873,-89.1216667,9.07,3.26,mw,72,40,0.2691,0.22,nm,nm60194306,2017-08-05T03:32:08.040Z,"9 km ESE of Wyatt, Missouri",earthquake,0.3,1.32,,16,reviewed,nm,nm
+2017-05-14T12:56:24.050Z,36.564,-89.599,13.61,3.02,md,45,31,0.01505,0.12,nm,nm60194166,2017-08-05T03:32:06.040Z,"0 km SSE of Howardville, Missouri",earthquake,0.14,0.22,0.099,57,reviewed,nm,nm
+2017-04-02T11:58:12.390Z,39.6644,-81.2434,3.93,3,mb_lg,,46,0.21,0.93,us,us10008dxn,2019-02-15T18:24:35.451Z,"5 km W of Graysville, Ohio",earthquake,1.1,7.8,0.053,93,reviewed,us,us
+2017-03-19T14:25:12.570Z,36.8795,-89.1278333,12.22,3.16,md,63,55,0.1898,0.17,nm,nm60181601,2017-06-12T19:46:50.040Z,"9 km ESE of Wyatt, Missouri",earthquake,0.28,1.02,0.119,68,reviewed,nm,nm
+2017-03-15T16:51:10.090Z,36.8816667,-89.1225,8.39,3.59,mw,90,40,0.1943,0.18,nm,nm60180726,2023-11-26T20:46:53.867Z,"9 km ESE of Wyatt, Missouri",earthquake,0.27,1.01,,9,reviewed,nm,nm
+2016-12-13T14:40:21.000Z,44.33,-66.1,18,3,mb_lg,,,,0.25,us,us200080m1,2017-03-09T02:14:30.040Z,"42 km SW of Digby, Canada",earthquake,4.7,2,,,reviewed,ott,ott
+2016-11-24T01:57:37.580Z,36.1545,-89.6926667,8.75,3.3,mlg,89,26,0.03525,0.14,nm,nm60140077,2017-02-15T23:21:39.040Z,"5 km SW of Caruthersville, Missouri",earthquake,0.14,0.37,,135,reviewed,nm,nm
+2016-11-01T20:49:23.000Z,47.12,-65.73,5,3.1,mb_lg,,,,0.62,us,us100073mr,2017-01-24T02:02:14.040Z,"New Brunswick, Canada",earthquake,2.9,1.9,,,reviewed,ott,ott
+2016-09-21T16:30:52.900Z,30.0745,-79.5044,0,3.8,ml,,172,2.269,0.75,us,us10006rzj,2016-12-12T23:01:35.040Z,"170 km ENE of Beverly Beach, Florida",experimental explosion,7,2,0.052,48,reviewed,us,us
+2016-09-09T13:45:37.560Z,36.4526667,-89.5346667,10.26,3.44,mw,89,27,0.06306,0.12,nm,nm60132667,2023-11-26T20:47:52.392Z,"9 km NW of Tiptonville, Tennessee",earthquake,0.14,0.28,,33,reviewed,nm,nm
+2016-09-04T18:29:29.800Z,30.0952,-79.5416,0,3.8,ml,,108,2.233,0.79,us,us10006kp2,2016-12-03T02:54:41.040Z,"167 km ENE of Beverly Beach, Florida",experimental explosion,3.8,2,0.049,54,reviewed,us,us
+2016-07-29T19:55:21.320Z,47.4283,-70.1157,19.43,3,mb_lg,,,,0.55,us,us100068ie,2016-10-19T04:51:41.040Z,"St. Lawrence Valley region, Quebec, Canada",earthquake,6.4,7.1,,,reviewed,ott,ott
+2016-07-18T09:53:39.560Z,37.1892,-81.8317,0,3.7,mwr,,,,0.83,us,us20006fi5,2016-09-17T01:27:49.040Z,"11 km NNW of Richlands, Virginia",mine collapse,3.5,2,,30,reviewed,nm,slm
+2016-07-16T20:00:10.220Z,29.7651,-79.4341,0,3.7,mb,,118,2.405,0.62,us,us20006f8n,2018-09-26T17:55:02.204Z,"163 km ENE of Ponce Inlet, Florida",experimental explosion,4.8,1.9,0.19,7,reviewed,us,us
+2016-07-05T04:51:13.020Z,36.1506667,-89.6973333,9.02,3,md,61,26,0.03084,0.17,nm,nm60123697,2022-08-03T03:08:53.412Z,"6 km SW of Caruthersville, Missouri",earthquake,0.21,0.45,0.145,51,reviewed,nm,nm
+2016-06-23T17:20:29.450Z,29.9948,-79.449,0,3.8,ml,,120,2.34,0.72,us,us20006gj9,2016-08-27T02:15:36.040Z,"172 km ENE of Ormond-by-the-Sea, Florida",experimental explosion,4.8,2,0.057,40,reviewed,us,us
+2016-06-19T23:07:16.800Z,46.4261,-75.5901,18,3.3,mb_lg,,,,1.19,us,us20006f4x,2016-08-27T02:15:30.040Z,"15 km SSW of Mont-Laurier, Canada",earthquake,1.9,5.7,,,reviewed,ott,ott
+2016-06-10T17:10:48.640Z,30.0335,-79.6406,0,3.7,mb,,91,2.271,0.77,us,us200064sn,2016-08-25T01:22:50.040Z,"156 km ENE of Beverly Beach, Florida",experimental explosion,6.3,1.9,0.29,3,reviewed,us,us
+2016-06-09T20:42:56.640Z,43.6155,-66.1682,5,3,mb_lg,,269,1.432,0.38,us,us200063a5,2016-08-18T00:36:37.040Z,"24 km S of Yarmouth, Canada",earthquake,4.7,2,,,reviewed,us,ott
+2016-05-14T21:29:55.270Z,45.9512,-77.3572,18,3.5,mb_lg,,,,0.76,us,us10005hgh,2020-08-10T02:33:22.780Z,"8 km NW of Petawawa, Canada",earthquake,1.4,1.9,,,reviewed,ott,ott
+2016-05-01T06:12:10.030Z,37.2136667,-88.9876667,16.26,3.5,mlg,57,58,0.2251,0.19,nm,nm60114087,2023-11-26T20:49:46.444Z,"5 km SE of New Grand Chain, Illinois",earthquake,0.24,0.41,,170,reviewed,nm,nm
+2016-04-29T08:58:13.370Z,33.3773,-87.1819,1.98,3,mb_lg,,48,0.37,0.77,us,us10005cep,2016-07-19T20:03:05.040Z,"7 km W of North Johns, Alabama",mine collapse,2.5,6.7,0.047,118,reviewed,us,us
+2016-04-22T15:52:36.800Z,33.3396,-87.1918,1.1,3,mb_lg,,70,0.34,0.52,us,us20005kx3,2016-07-08T02:49:18.040Z,"8 km NW of Lake View, Alabama",mine collapse,3.5,7.8,0.051,101,reviewed,us,us
+2016-02-09T00:24:57.000Z,45.605,-67.35,1,3.3,mb_lg,,,,1.18,us,us20004z2l,2016-05-26T21:31:53.690Z,"7 km NE of Vanceboro, Maine",earthquake,2.1,2,,,reviewed,ott,ott
+2016-02-02T11:56:22.000Z,44.871,-66.878,5,3.6,mb_lg,,,,0.44,us,us20004wjb,2016-05-26T21:31:51.980Z,"8 km E of Lubec, Maine",earthquake,3.6,2,,,reviewed,ott,ott
+2016-01-17T19:12:49.050Z,39.3193333,-77.8283333,4.74,3.03,ml,14,80,0.2174,0.23,ld,ld60108801,2021-05-13T22:00:11.299Z,"3 km NE of Ranson, West Virginia",earthquake,0.43,3.02,0.18,13,reviewed,ld,ld
+2015-11-28T05:16:54.250Z,44.9785,-74.7305,5,3.23,ml,24,64,0.2111,0.3,ld,ld60106806,2022-08-01T20:46:25.275Z,"4 km S of Cornwall, Canada",earthquake,0.41,31.61,0.21,51,reviewed,ld,ld
+2015-11-25T07:08:53.130Z,36.5373333,-89.6015,8.67,3.04,md,71,28,0.03893,0.13,nm,nm60096437,2022-08-01T20:07:47.637Z,"2 km NNE of Marston, Missouri",earthquake,0.14,0.26,0.162,51,reviewed,nm,nm
+2015-11-04T15:04:26.330Z,47.0232,-66.6281,5,3.7,mb_lg,,,,0.81,us,us200041yg,2016-01-30T02:11:07.040Z,"85 km W of Miramichi, Canada",earthquake,2.9,2,,,reviewed,ott,ott
+2015-10-20T23:36:56.760Z,45.7271,-77.1392,18,3.1,mb_lg,,,,0.77,us,us100040ey,2016-01-15T20:51:28.040Z,"10 km S of Pembroke, Canada",earthquake,2.1,1.9,,,reviewed,ott,ott
+2015-10-20T23:34:51.940Z,45.7344,-77.1451,18,3.8,mb_lg,,,,0.81,us,us10003q3y,2022-08-01T12:58:19.383Z,"9 km SSW of Pembroke, Canada",earthquake,2.3,2,,,reviewed,ott,ott
+2015-09-30T01:06:22.240Z,46.509,-80.8978,1,3.1,mb_lg,,,,0.81,us,us10003j1h,2022-08-01T08:51:49.689Z,"7 km ENE of Greater Sudbury, Canada",earthquake,1.6,2,,,reviewed,ott,ott
+2015-09-13T00:45:18.530Z,47.4246,-70.3593,11.29,3.1,mb_lg,,,,0.64,us,us20003j4c,2022-08-01T04:44:25.493Z,"10 km E of Baie-Saint-Paul, Canada",earthquake,1.9,6.4,,,reviewed,ott,ott
+2015-09-09T19:17:51.070Z,45.767,-76.3743333,10,3.19,ml,14,255,0.5936,0.7,ld,ld60101641,2021-05-13T21:59:59.297Z,"20 km NNE of Shawville, Canada",earthquake,2.98,31.61,0.17,8,reviewed,ld,ld
+2015-09-02T01:46:33.650Z,36.496,-89.5591667,9.48,3,md,44,44,0.04509,0.1,nm,nm60088632,2022-08-01T03:11:25.070Z,"5 km ESE of Marston, Missouri",earthquake,0.14,0.28,0.077,60,reviewed,nm,nm
+2015-08-27T22:47:52.000Z,46.21,-66.594,5,3.6,mb_lg,,,,0.41,us,us100035k5,2022-08-01T02:13:00.494Z,"27 km N of Noonan, Canada",earthquake,3.4,2,,,reviewed,ott,ott
+2015-08-25T13:26:15.340Z,35.6641667,-89.6823333,12.69,3.5,mw,88,68,0.09195,0.14,nm,nm60087957,2022-08-01T01:45:45.219Z,"9 km W of Henning, Tennessee",earthquake,0.19,0.37,,31,reviewed,nm,nm
+2015-08-21T23:49:14.000Z,47.243,-66.29,5,3,mb_lg,,,,0.43,us,us1000345f,2016-05-26T21:31:05.770Z,"63 km SW of Bathurst, Canada",earthquake,5.7,2,,,reviewed,ott,ott
+2015-08-07T21:23:39.130Z,35.3678333,-90.0725,4.22,3.03,md,67,40,0.04482,0.22,nm,nm60086257,2022-07-31T22:54:48.092Z,"16 km W of Millington, Tennessee",earthquake,0.23,0.49,0.103,51,reviewed,nm,nm
+2015-07-27T20:26:26.120Z,46.5642,-75.2799,18,3.1,mb_lg,,,,0.99,us,us20003fw4,2016-05-26T21:30:47.560Z,"16 km E of Mont-Laurier, Canada",earthquake,3.1,6.2,,,reviewed,ott,ott
+2015-07-15T22:00:19.520Z,45.4743333,-74.5435,10.23,3.27,ml,33,134,,0.36,ld,ld60096481,2022-07-31T18:47:59.008Z,"15 km SSE of Hawkesbury, Canada",earthquake,0.42,1.07,0.23,13,reviewed,ld,ld
+2015-07-01T18:32:53.000Z,44.085,-66.253,5,3.5,mwr,,,,0.29,us,us10002mvh,2022-07-31T16:17:29.052Z,"30 km NNW of Yarmouth, Canada",earthquake,7.1,2,0.047,43,reviewed,ott,us
+2015-06-30T15:42:54.710Z,42.1464,-85.0459,5,3.3,mb_lg,,33,0.499,0.34,us,us10002mly,2022-07-31T16:09:58.493Z,"5 km NNE of Burlington, Michigan",earthquake,2.9,2,0.037,190,reviewed,us,us
+2015-06-30T06:44:07.220Z,32.9911667,-88.0511667,0.14,3.5,mw,12,66,0.03576,0.21,se,se60081677,2019-10-10T15:21:14.820Z,"12 km W of Union, Alabama",earthquake,1.14,0.09,,0,reviewed,se,se
+2015-06-29T13:23:01.490Z,32.5614,-90.0744,5,3.2,mb_lg,,51,0.507,0.37,us,us10002mc3,2022-07-31T15:56:37.613Z,"6 km SSW of Canton, Mississippi",earthquake,3.2,2,0.047,117,reviewed,us,us
+2015-06-28T09:15:03.000Z,47.394,-70.092,7.4,3.3,mb_lg,,,,0.58,us,us10002m6v,2022-07-31T15:32:30.146Z,"5 km NW of La Pocatière, Canada",earthquake,3.6,6.6,,,reviewed,ott,ott
+2015-05-30T00:41:14.690Z,38.462,-88.3561667,25.85,3.4,mlg,26,59,0.08472,0.3,nm,nm60008708,2019-10-10T14:41:47.040Z,"4 km ENE of Geff, Illinois",earthquake,0.55,0.6,,0,reviewed,nm,nm
+2015-05-03T01:08:34.860Z,32.5794,-90.1139,5,3,mb_lg,,50,0.496,0.51,us,us20002ax8,2022-07-31T03:38:10.448Z,"8 km WSW of Canton, Mississippi",earthquake,3.4,2,0.048,111,reviewed,us,us
+2015-05-03T00:39:23.590Z,32.5571,-90.0759,5,3.2,mb_lg,,51,0.503,0.47,us,us20002ax0,2022-07-31T03:37:17.144Z,"7 km SSW of Canton, Mississippi",earthquake,4.3,2,0.045,129,reviewed,us,us
+2015-05-02T16:23:07.580Z,42.2357,-85.4285,4.48,4.2,mwr,,17,0.682,0.79,us,us20002avh,2024-02-17T20:33:00.345Z,"5 km S of Galesburg, Michigan",earthquake,3.8,4.3,0.028,124,reviewed,us,us
+2015-05-02T08:34:25.550Z,46.826,-78.927,18,3.3,mb_lg,,,,1.02,us,us20002awj,2015-07-09T22:00:06.040Z,"12 km NE of Notre-Dame-du-Lac, Canada",earthquake,3.6,2,,,reviewed,ott,ott
+2015-04-02T03:51:43.370Z,36.0505,-89.826,10.38,3.6,mw,81,50,0.06885,0.12,nm,nm60096021,2022-08-07T07:56:12.066Z,"1 km WNW of Cooter, Missouri",earthquake,0.16,0.41,,0,reviewed,nm,nm
+2015-03-12T01:19:19.870Z,32.9691667,-88.0661667,0,3.1,mlg,11,95,0.2291,0.42,se,se60093961,2019-10-10T15:15:22.180Z,"14 km W of Union, Alabama",earthquake,0.8,0.18,,0,reviewed,se,se
+2015-02-28T23:08:44.450Z,36.536,-89.6391667,13.44,3.12,md,63,30,0.02476,0.08,nm,nm60070727,2022-07-27T23:42:22.682Z,"3 km NW of Marston, Missouri",earthquake,0.14,0.25,0.189,50,reviewed,nm,nm
+2015-02-27T22:40:48.950Z,32.967,-88.0368333,0.33,3.09,md,10,128,0.2329,0.22,se,se60070647,2019-10-10T15:15:02.340Z,"11 km WSW of Union, Alabama",earthquake,0.57,0.13,0.175,11,reviewed,se,se
+2015-01-21T05:31:59.000Z,47.371,-70.217,14.5,3.7,mb_lg,,,,0.73,us,usc000ti4g,2015-04-20T16:05:38.040Z,"13 km W of La Pocatière, Canada",earthquake,5.4,7.6,,,reviewed,ott,ott
+2015-01-16T13:05:28.720Z,49.4297,-66.7949,18,4.1,mb,,,,0.82,us,usc000tgdg,2022-07-27T15:00:18.554Z,"37 km NNW of Cap-Chat, Canada",earthquake,4.7,1.9,0.157,11,reviewed,ott,us
+2015-01-12T11:36:38.890Z,41.7482,-71.9019,5.4,3.3,mb_lg,,87,0.246,0.36,us,usc000tesx,2022-08-07T07:23:43.050Z,"0 km NE of Wauregan, Connecticut",earthquake,2.5,7.8,0.054,91,reviewed,us,us
+2014-12-15T06:44:16.560Z,36.059,-81.5195,13.16,3,md,25,35,0.3222,0.26,se,se610680,2016-04-07T18:21:48.110Z,"13 km NNW of Cedar Rock, North Carolina",earthquake,0.7,1.6,0.309,4,reviewed,se,se
+2014-11-20T10:25:31.440Z,32.9493333,-87.987,0,3.8,mw,21,128,0.2584,0.34,se,se610672,2016-04-07T18:20:56.990Z,"7 km WSW of Union, Alabama",earthquake,1.1,0.89,0.547,4,reviewed,se,se
+2014-11-02T01:58:10.000Z,46.938,-67.032,5,3.2,mb_lg,,,,0.62,us,usc000sue7,2015-01-20T09:03:10.040Z,"59 km ESE of Hamlin, Maine",earthquake,2.2,2,,,reviewed,ott,ott
+2014-09-23T02:58:02.760Z,48.4254,-69.1607,18,3.3,mb_lg,,,,0.78,us,usb000sh5a,2014-12-19T00:05:26.040Z,"20 km ENE of Les Escoumins, Canada",earthquake,1.6,5.9,,,reviewed,ott,ott
+2014-08-05T18:15:31.590Z,46.485,-81.193,5.4,3.8,mb_lg,,,,0.82,us,usb000s0hr,2022-07-26T21:34:09.086Z,"6 km NNW of Lively, Canada",earthquake,,6.2,,,reviewed,ott,ott
+2014-08-05T17:54:53.520Z,46.4765,-81.1848,12.05,3.3,mb_lg,,,,0.64,us,usb000s0t4,2014-10-29T19:53:02.000Z,"5 km NNW of Lively, Canada",earthquake,,7.6,,,reviewed,ott,ott
+2014-08-02T18:38:40.200Z,47.5906,-70.1818,14.81,3,mb_lg,,,,1.28,us,usb000rzl2,2014-10-29T19:52:55.000Z,"7 km SSW of La Malbaie, Canada",earthquake,,7.8,,,reviewed,ott,ott
+2014-07-04T22:55:57.000Z,45.922,-74.857,18,3,mb_lg,,,,0.82,us,usc000rqrb,2014-10-04T19:59:55.000Z,"20 km ESE of Notre-Dame-du-Mont-Carmel, Canada",earthquake,,1.9,,,reviewed,ott,ott
+2014-05-26T21:33:49.000Z,48.963,-68.016,21,3.7,mb_lg,,,,0.49,us,usb000r55f,2014-08-23T08:36:50.000Z,"29 km SSE of Baie-Comeau, Canada",earthquake,,3.6,,,reviewed,ott,ott
+2014-05-22T01:47:15.960Z,37.5298333,-78.0701667,9.86,3.1,mw,13,74,0.084,0.31,se,se610626,2016-05-26T21:26:58.280Z,"15 km ENE of Cumberland, Virginia",earthquake,0.9,1.7,0.325,4,reviewed,se,se
+2014-05-15T15:44:58.340Z,36.558,-90.02,5.63,3.1,md,38,67,0.06237,0.12,nm,nm610382,2016-04-07T17:48:43.090Z,"4 km W of Malden, Missouri",earthquake,0.2,1.2,0.3,20,reviewed,nm,nm
+2014-04-28T14:52:54.000Z,47,-66.57,5,3.4,mb_lg,,,,0.8,us,usb000q3f5,2014-07-14T20:11:22.000Z,"81 km W of Miramichi, Canada",earthquake,,7.5,,,reviewed,ott,ott
+2014-04-21T01:05:06.760Z,29.6897,-67.5421,6.76,4.1,mb,,79,3.62,1.34,us,usb000ps9i,2014-07-04T01:34:44.000Z,"North Atlantic Ocean",earthquake,,4.3,0.067,60,reviewed,us,us
+2014-04-07T06:24:12.920Z,36.2161667,-89.4101667,6.28,3.1,md,22,67,0.01627,0.03,nm,nm610334,2016-04-07T17:43:35.300Z,"8 km SE of Ridgely, Tennessee",earthquake,0.3,0.7,0.083,14,reviewed,nm,nm
+2014-03-19T22:38:03.330Z,32.9978333,-80.1778333,6.91,3,mlg,15,57,0.08998,0.37,se,se610620,2016-04-07T18:15:25.450Z,"0 km WNW of Centerville, South Carolina",earthquake,0.5,0.8,0.432,8,reviewed,se,se
+2014-02-16T20:23:35.810Z,33.8301667,-82.0656667,6.99,3,mw,20,109,0.2032,0.38,se,se610611,2016-04-07T18:14:28.090Z,"13 km WNW of Edgefield, South Carolina",earthquake,0.6,1,0.457,10,reviewed,se,se
+2014-02-15T03:23:38.150Z,33.8166667,-82.092,5.18,4.1,mw,21,110,0.2289,0.38,se,se610610,2022-12-13T05:23:01.752Z,"12 km ENE of Parksville, South Carolina",earthquake,0.6,0.8,0.765,11,reviewed,se,se
+2014-02-13T04:57:38.020Z,43.64,-78.3958333,5,2.46,ml,35,97,0.4076,0.38,ld,ld60064321,2021-05-13T21:59:18.980Z,"34 km N of Lyndonville, New York",earthquake,0.4,31.61,0.18,25,reviewed,ld,ld
+2014-02-07T15:45:06.510Z,45.0958333,-73.646,12,2.42,ml,44,60,,0.38,ld,ld60063426,2021-05-13T21:59:17.902Z,"15 km NNW of Mooers, New York",earthquake,0.33,31.61,0.17,23,reviewed,ld,ld
+2013-12-23T16:45:49.310Z,25.7194,-66.6056,2.08,5.2,mwb,,48,5.896,0.85,us,usc000lqeg,2014-02-27T22:02:51.844Z,"North Atlantic Ocean",earthquake,,2.7,0.068,,reviewed,us,us
+2013-12-11T07:47:21.000Z,47.223,-70.4,12.5,3.4,mb_lg,,,,0.88,us,usc000ljy4,2014-02-21T23:00:51.000Z,"9 km W of St-Jean-Port-Joli, Canada",earthquake,,7.2,,,reviewed,ott,ott
+2013-11-20T17:59:39.820Z,39.445,-82.205,8,3.5,mb_lg,,,,0.57,us,usb000l2y3,2023-11-28T18:01:29.083Z,"2 km SW of Buchtel, Ohio",earthquake,,6.8,0.042,,reviewed,oh,us
+2013-11-04T18:35:33.720Z,41.7999,-87.8247,1,3.2,mb_lg,,28,0.383,0.5,us,usb000ksfx,2022-07-26T00:59:37.662Z,"1 km SSW of Lyons, Illinois",earthquake,,2,0.052,,reviewed,us,us
+2013-10-20T10:40:33.380Z,45.6106,-77.4528,18,3.6,mb_lg,,,,0.8,us,usb000khk2,2022-07-26T00:11:26.469Z,"34 km SSW of Petawawa, Canada",earthquake,,1.5,,,reviewed,ott,ott
+2013-10-08T01:58:09.190Z,30.1795,-74.1579,19.04,4.4,mb,,63,5.138,1.05,us,usb000k8bw,2013-12-24T01:42:56.000Z,"off the east coast of the United States",earthquake,,4.5,0.074,,reviewed,us,us
+2013-09-21T14:48:26.110Z,49.7668,-65.9147,18,4.2,mwr,,,,1.71,us,usb000jx58,2023-10-15T04:56:04.978Z,"53 km SSE of Maliotenam, Canada",earthquake,,1.8,0.075,,reviewed,ott,us
+2013-08-28T09:44:34.630Z,46.9913,-66.6064,5,3.2,mb_lg,,,,0.52,us,usb000jekt,2013-11-06T01:33:32.000Z,"84 km W of Miramichi, Canada",earthquake,,2,,,reviewed,us_ott,us_ott
+2013-08-12T21:43:24.300Z,36.261,-89.3013333,4.4,3.3,md,34,103,0.01341,0.11,nm,nm610016,2016-04-07T18:51:30.370Z,"7 km S of Hornbeak, Tennessee",earthquake,0.5,1.2,0.189,7,reviewed,nm,nm
+2013-07-17T20:10:33.020Z,35.6248333,-90.5638333,13.57,3.2,md,28,54,0.07196,0.14,nm,nm609991,2016-04-07T18:48:49.000Z,"7 km SW of Trumann, Arkansas",earthquake,0.2,0.4,0.124,7,reviewed,nm,nm
+2013-07-11T20:16:07.000Z,47.81,-70.049,14.9,4.4,mb,48,100,,,us,usp000k1wx,2016-05-26T21:24:48.900Z,"13 km WSW of Saint-Siméon, Canada",earthquake,,,,9,reviewed,ott,us
+2013-07-01T07:48:43.300Z,41.793,-81.292,5,3.2,mblg,48,100,,,us,usp000k1m6,2016-05-26T21:24:44.920Z,"5 km NNW of Fairport Harbor, Ohio",earthquake,,,,,reviewed,ogso,ogso
+2013-06-30T08:40:46.000Z,45.748,-76.352,14,3.1,mblg,16,100,,,us,us2013sbcm,2014-11-07T01:51:08.360Z,"19 km NNE of Shawville, Canada",earthquake,,,,,reviewed,ott,ott
+2013-05-17T20:15:17.000Z,45.767,-76.346,18,3.1,mblg,36,100,,,us,usb000gxx8,2022-07-25T02:24:36.460Z,"21 km NNE of Shawville, Canada",earthquake,,,,,reviewed,ott,ott
+2013-05-17T13:53:55.830Z,45.7576667,-76.3545,10.72,3.63,ml,17,141,,0.35,ld,ld60040531,2021-05-13T21:58:53.224Z,"20 km NNE of Shawville, Canada",earthquake,0.58,1.06,0.2,54,reviewed,ld,ld
+2013-05-17T13:43:24.440Z,45.7568333,-76.3533333,13,5.06,ml,17,141,,0.2,ld,ld60040526,2021-05-13T21:58:52.692Z,"20 km NNE of Shawville, Canada",earthquake,0.37,31.61,0.32,28,reviewed,ld,ld
+2013-03-31T14:01:24.030Z,38.645,-80.8331667,8.02,3.4,mw,13,69,,0.45,se,se610164,2016-04-07T19:07:13.170Z,"West Virginia",earthquake,1.3,3.8,0.304,6,reviewed,se,se
+2013-03-21T05:22:17.440Z,46.43,-66.122,5,3.2,mblg,29,67,,,us,us2013nab1,2014-11-07T01:50:22.181Z,"60 km NNE of Noonan, Canada",earthquake,,,,,reviewed,ott,ott
+2013-02-23T22:28:38.560Z,35.6256667,-90.56,14.11,3.7,mw,30,80,0.07477,0.12,nm,nm609799,2016-04-07T18:29:44.473Z,"7 km SW of Trumann, Arkansas",earthquake,0.3,0.4,0.057,1,reviewed,nm,nm
+2013-02-19T04:59:44.000Z,48.425,-83.298,8,4.1,mb,34,61.7,,,us,us2013lvad,2014-11-07T01:50:09.684Z,"119 km ENE of Wawa, Canada",earthquake,,,,1,reviewed,ott,us
+2013-01-16T01:01:48.950Z,46.063,-75.433,18,3,mblg,18,159.4,,,us,usp000jyfd,2014-11-07T01:49:50.680Z,"27 km W of Notre-Dame-du-Mont-Carmel, Canada",earthquake,,,,,reviewed,ott,ott
+2013-01-16T00:53:04.880Z,46.061,-75.442,18,3.5,mblg,53,86.3,,,us,usp000jyfc,2014-11-07T01:49:50.674Z,"28 km W of Notre-Dame-du-Mont-Carmel, Canada",earthquake,,,,,reviewed,ott,ott
+2013-01-02T16:36:22.000Z,47.02,-66.497,5,3,mblg,10,157.1,,,us,usp000jxrb,2014-11-07T01:49:44.672Z,"75 km W of Miramichi, Canada",earthquake,,,,,reviewed,ott,ott
+2012-12-12T17:46:06.000Z,47.785,-70.049,5.3,4.4,mblg,95,40.5,,,us,usp000jww2,2015-03-24T02:02:43.732Z,"14 km WSW of Saint-Siméon, Canada",earthquake,,,,,reviewed,ott,ott
+2012-11-27T07:55:56.000Z,48.815,-67.352,17,4.2,mblg,95,36.8,,,us,usp000jw4q,2015-03-24T02:23:42.722Z,"Gaspe Peninsula, Quebec, Canada",earthquake,,,,,reviewed,ott,ott
+2012-11-24T11:03:13.480Z,35.9186667,-83.5011667,7.02,3,mlg,23,51,,0.14,se,se609741,2016-04-07T20:02:37.530Z,"7 km NE of Sevierville, Tennessee",earthquake,0.6,1.4,0.267,2,reviewed,se,se
+2012-11-20T23:28:22.610Z,38.4548333,-87.9018333,18.56,3.6,mlg,33,49,,0.2,nm,nm609594,2016-04-07T19:48:46.538Z,"7 km N of Bellmont, Illinois",earthquake,0.3,0.4,0.792,3,reviewed,nm,nm
+2012-11-10T17:08:14.280Z,37.1386667,-83.0536667,17.03,4.2,mw,21,72,,0.16,se,se609737,2018-08-05T14:24:42.977Z,"6 km W of Blackey, Kentucky",earthquake,0.4,1.2,0.231,1,reviewed,se,se
+2012-11-06T09:05:28.400Z,45.6185,-74.601,11.07,3.74,ml,21,204,0.6211,0.23,ld,ld60036901,2021-05-13T21:58:39.376Z,"Ontario-Quebec border region, Canada",earthquake,0.52,0.75,0.17,47,reviewed,ld,ld
+2012-10-29T12:39:24.100Z,35.2031667,-90.6323333,21.04,3.9,mlg,57,46,0.1301,0.26,nm,nm609579,2016-04-07T19:46:42.425Z,"8 km SW of Parkin, Arkansas",earthquake,0.2,0.4,0.205,3,reviewed,nm,nm
+2012-10-16T23:12:25.080Z,43.5973333,-70.656,16.09,4.67,ml,27,116,,0.27,ld,ld60036706,2021-05-13T21:58:36.254Z,"5 km W of Hollis Center, Maine",earthquake,0.47,0.79,0.15,42,reviewed,ld,ld
+2012-10-10T04:19:29.090Z,45.7553333,-73.2685,8.55,3.93,ml,20,189,0.3562,0.44,ld,ld60036501,2021-05-13T21:58:35.738Z,"7 km ESE of Verchères, Canada",earthquake,1.12,1.32,0.18,35,reviewed,ld,ld
+2012-09-22T16:10:41.370Z,48.442,-83.266,18,3.9,mblg,77,35.6,,,us,usp000jsqy,2015-03-24T02:07:21.655Z,"122 km ENE of Wawa, Canada",earthquake,,,,,reviewed,ott,ott
+2012-08-04T18:27:49.630Z,47.234,-70.597,18,3.8,mblg,49,61.1,,,us,usp000jpwj,2015-03-24T02:36:05.435Z,"24 km SSW of Baie-Saint-Paul, Canada",earthquake,,,,,reviewed,ott,ott
+2012-06-17T13:40:31.700Z,36.411,-89.5295,8.44,3.3,mlg,37,38,0.04389,0.04,nm,nm609443,2016-04-07T19:30:56.440Z,"6 km NW of Tiptonville, Tennessee",earthquake,0.2,0.6,0.229,1,reviewed,nm,nm
+2012-05-10T22:54:05.570Z,38.8066667,-87.4606667,10.7,3.1,mlg,31,37,,0.25,nm,nm609413,2016-04-07T19:27:42.600Z,"0 km NW of Emison, Indiana",earthquake,0.4,0.8,,,reviewed,nm,nm
+2012-04-12T15:43:53.780Z,42.021,-65.729,18,3.4,ml,21,220.9,,,us,usp000jhse,2014-11-07T01:47:30.359Z,"196 km S of Shelburne, Canada",earthquake,,,,,reviewed,ott,ott
+2012-04-12T15:33:44.590Z,41.974,-65.842,18,3.8,ml,24,209.6,,,us,usp000jhsd,2014-11-07T01:47:30.356Z,"203 km SSW of Shelburne, Canada",earthquake,,,,,reviewed,ott,ott
+2012-04-12T04:32:03.150Z,41.941,-65.766,18,3.8,ml,17,210.7,,,us,usp000jhqn,2014-11-07T01:47:29.819Z,"205 km S of Shelburne, Canada",earthquake,,,,,reviewed,ott,ott
+2012-04-12T04:29:55.000Z,41.709,-65.634,10,4.2,mb,52,137.5,,0.96,us,usp000jhqm,2014-11-07T01:47:29.813Z,"229 km S of Shelburne, Canada",earthquake,,,,1,reviewed,us,us
+2012-04-12T02:29:39.270Z,41.927,-65.762,18,4.5,mb,218,76.6,,,us,usp000jhq9,2015-03-24T01:28:14.676Z,"207 km S of Shelburne, Canada",earthquake,,,,97,reviewed,ott,us
+2012-03-30T23:29:59.320Z,47.354,-66.094,5,3.4,mblg,10,139.3,,,us,usp000jh0u,2014-11-07T01:47:20.803Z,"44 km SW of Bathurst, Canada",earthquake,,,,,reviewed,ott,ott
+2012-03-26T03:21:50.950Z,37.9063333,-77.9878333,8.65,3,mw,15,113,0.02748,0.1,se,se609674,2016-05-26T21:22:33.730Z,"13 km S of Louisa, Virginia",earthquake,0.5,0.6,,,reviewed,se,se
+2012-02-24T22:47:22.370Z,47.616,-70.226,1.4,4,mblg,63,40.4,,,us,usp000jfbf,2015-03-24T02:13:54.845Z,"6 km SW of La Malbaie, Canada",earthquake,,,,,reviewed,ott,ott
+2012-02-22T12:49:56.950Z,37.908,-81.556,0,3.2,mblg,15,58.5,,1.11,rusms,rusms00005174,2022-06-09T21:13:37.105Z,"6 km ESE of Twilight, West Virginia",explosion,,,,,reviewed,us,us
+2012-02-21T09:58:43.650Z,36.8733333,-89.4226667,7.81,3.9,mw,65,38,,0.19,nm,nm609348,2016-04-07T19:21:56.169Z,"4 km SSE of Bertrand, Missouri",earthquake,0.18,0.46,0.042,3,reviewed,nm,nm
+2012-01-30T23:39:47.250Z,37.9453333,-77.983,3.18,3.1,mw,16,82,0.01197,0.14,se,se609654,2016-05-26T21:22:24.080Z,"9 km SSE of Louisa, Virginia",earthquake,0.7,0.9,,,reviewed,se,se
+2012-01-26T22:35:55.790Z,41.576,-85.49,4.7,3,mblg,19,66,,1.5,us,usp000je0q,2014-11-07T01:46:50.763Z,"5 km NE of Topeka, Indiana",earthquake,,8.7,,,reviewed,us,ott
+2012-01-22T05:59:46.490Z,46.3716667,-75.125,10,3.1,ml,8,295,0.7124,0.39,ld,ld60029501,2021-05-13T21:58:28.439Z,"20 km NW of La Minerve, Canada",earthquake,1.69,31.61,0.16,22,reviewed,ld,ld
+2011-12-31T20:05:01.060Z,41.1215,-80.6843333,5,4,ml,9,138,0.5495,0.23,ld,ld60029101,2022-08-06T08:43:05.710Z,"3 km NW of Youngstown, Ohio",earthquake,0.5,31.61,0.14,13,reviewed,ld,ld
+2011-12-03T11:12:48.460Z,37.13,-81.932,1,3.1,mblg,28,56.5,,1.29,us,usp000jbsa,2015-01-29T02:33:11.044Z,"8 km NW of Raven, Virginia",rock burst,,,,,reviewed,us,us
+2011-11-29T17:02:25.000Z,47.55,-70.25,14,3.4,mblg,25,193.1,,,us,usp000jbm2,2014-11-07T01:46:25.859Z,"13 km SSW of La Malbaie, Canada",earthquake,,,,,reviewed,ott,ott
+2011-10-12T16:40:00.370Z,37.9401667,-77.983,4.01,3,mw,17,71,,0.08,se,se609267,2016-04-08T14:05:18.670Z,"9 km S of Louisa, Virginia",earthquake,0.4,0.7,0.412,6,reviewed,se,se
+2011-10-03T22:36:32.390Z,31.157,-65.065,10,4.5,mb,109,66.5,,1.31,us,usp000j8w6,2014-11-07T01:46:02.825Z,"128 km SSW of Hamilton, Bermuda",earthquake,,,,44,reviewed,us,us
+2011-10-03T22:18:05.660Z,31.125,-65.082,10,4.4,mb,85,76.4,,1.38,us,usp000j8w4,2014-11-07T01:46:02.803Z,"132 km SSW of Hamilton, Bermuda",earthquake,,,,31,reviewed,us,us
+2011-09-18T19:19:14.040Z,45.6013333,-75.2345,5,3.84,ml,20,222,0.1991,0.22,ld,ld60026001,2022-07-23T05:39:45.106Z,"1 km E of Thurso, Canada",earthquake,0.59,31.61,0.17,10,reviewed,ld,ld
+2011-09-13T22:59:23.550Z,33.5601667,-86.5536667,19.17,3,mlg,18,77,0.6426,0.45,se,se609247,2016-04-08T14:03:10.930Z,"1 km NNW of Leeds, Alabama",earthquake,3,4.2,0.473,2,reviewed,se,se
+2011-09-01T09:09:37.960Z,37.9501667,-77.932,3.42,3.4,mlg,26,60,,0.28,se,se609240,2016-04-08T14:02:25.760Z,"7 km SSW of Mineral, Virginia",earthquake,0.2,0.4,0.708,4,reviewed,se,se
+2011-08-31T17:36:02.670Z,39.51,-81.47,5,3.1,mblg,4,124.3,,,us,usp000j7b5,2014-11-07T01:45:45.276Z,"3 km SE of Lowell, Ohio",earthquake,,,,,reviewed,ogso,ogso
+2011-08-27T06:25:41.560Z,46.778,-70.667,18,3.5,mblg,25,57,,,us,usp000j73h,2015-01-30T13:13:51.640Z,"24 km SSW of Montmagny, Canada",earthquake,,,,,reviewed,ott,ott
+2011-08-25T05:07:52.290Z,37.9468333,-77.9671667,6.81,4.5,mlg,26,76,,0.51,se,se609218,2021-10-27T21:00:37.947Z,"8 km SW of Mineral, Virginia",earthquake,1.4,1.3,1.642,4,reviewed,se,se
+2011-08-24T17:14:32.670Z,44.703,-74.3821667,5,3.19,ml,15,108,0.163,0.28,ld,ld60024626,2022-07-23T03:51:41.187Z,"13 km ENE of Saint Regis Falls, New York",earthquake,0.42,31.61,0.16,8,reviewed,ld,ld
+2011-08-24T04:45:25.960Z,37.8251667,-77.948,0.05,3.4,mlg,10,129,,0.37,se,se609216,2021-02-18T19:34:49.644Z,"16 km NNW of Goochland, Virginia",earthquake,2.7,2.8,,,reviewed,se,se
+2011-08-24T00:04:36.870Z,37.9146667,-77.9545,0,4.2,mlg,21,121,,0.31,se,se609215,2022-01-12T01:54:50.542Z,"11 km SSW of Mineral, Virginia",earthquake,1.6,2.1,,,reviewed,se,se
+2011-08-23T17:51:04.250Z,37.9096667,-77.9363333,6,5.8,mw,23,80,,0.48,se,se609212,2024-04-06T05:39:34.033Z,"11 km SSW of Mineral, Virginia",earthquake,1.9,2.4,,0,reviewed,se,se
+2011-07-22T23:02:40.180Z,37.135,-81.787,0,3.5,mblg,15,78.3,,0.98,rusms,rusms00005028,2022-06-09T21:13:32.635Z,"4 km N of Richlands, Virginia",explosion,,,,,reviewed,us,us
+2011-06-16T07:20:40.180Z,48.266,-69.65,23,3.8,mblg,56,39.8,,,us,usp000j38p,2022-07-19T17:53:31.107Z,"11 km ENE of Sacré-Coeur, Canada",earthquake,,,,,reviewed,ott,ott
+2011-06-05T15:35:21.050Z,41.03,-82.08,5,3,mblg,8,71.5,,,us,usp000j2rt,2022-07-19T17:05:47.177Z,"5 km W of Lodi, Ohio",earthquake,,,,,reviewed,ogso,ogso
+2011-05-03T03:02:50.000Z,36.954,-89.121,0,3.1,mblg,31,71,,,us,usp000j0xp,2022-07-19T14:17:51.608Z,"3 km WSW of Wickliffe, Kentucky",earthquake,,,,,reviewed,exp,us
+2011-04-18T15:38:03.890Z,32.461,-65.597,10,4.6,mb,74,77.7,,0.85,us,usp000j06z,2022-07-19T12:44:31.178Z,"78 km WNW of Hamilton, Bermuda",earthquake,,6.7,,46,reviewed,us,us
+2011-03-29T16:04:35.590Z,46.569,-76.959,18,3.5,mblg,18,116.6,,,us,usp000hyvq,2022-07-19T10:46:39.734Z,"66 km NE of Deep River, Canada",earthquake,,,,,reviewed,ott,ott
+2011-03-16T17:36:56.460Z,45.6165,-74.537,10,3.87,ml,13,241,0.9973,0.45,ld,ld60013616,2022-08-09T09:26:20.261Z,"6 km ENE of Hawkesbury, Canada",earthquake,1.68,31.61,0.21,14,reviewed,ld,ld
+2011-02-23T14:21:32.420Z,42.157,-82.43,5,3,mblg,10,97.3,,,us,usp000huzf,2016-05-26T21:19:59.580Z,"18 km NE of Leamington, Canada",earthquake,,,,,reviewed,ott,ott
+2011-02-18T23:15:31.970Z,30.08,-88.001,5,3.5,mblg,31,163.5,,1.23,us,usp000huqz,2022-07-19T05:19:54.638Z,"22 km SSE of Dauphin Island, Alabama",earthquake,,,,,reviewed,us,us
+2010-12-30T12:55:21.960Z,40.43,-85.914,5,3.8,mwr,75,26.9,,1.06,us,usp000hsa5,2024-01-02T01:44:32.097Z,"6 km SE of Greentown, Indiana",earthquake,,,,,reviewed,us,us
+2010-11-30T15:45:57.040Z,39.9546667,-71.571,19.92,3.68,ml,36,232,1.705,0.51,ld,ld2010113000,2022-07-19T01:00:32.495Z,"123 km SSE of Wainscott, New York",earthquake,3.6,5.35,0.14,,reviewed,ld,ld
+2010-10-28T23:06:09.850Z,47.425,-70.476,7.9,3,mblg,15,82.9,,,us,usp000hnqn,2014-11-07T01:42:46.750Z,"2 km SE of Baie-Saint-Paul, Canada",earthquake,,,,,reviewed,ott,ott
+2010-10-08T11:08:33.890Z,47.107,-70.679,27.8,3.1,mblg,21,54.5,,,us,usp000hmtv,2014-11-07T01:42:40.519Z,"16 km NW of Montmagny, Canada",earthquake,,,,,reviewed,ott,ott
+2010-10-07T23:10:53.420Z,47.406,-70.327,12.7,3,mblg,16,69.1,,,us,usp000hmr4,2014-11-07T01:42:39.688Z,"13 km ESE of Baie-Saint-Paul, Canada",earthquake,,,,,reviewed,ott,ott
+2010-10-02T20:17:00.050Z,37.8531667,-77.5186667,19.2,3,mlg,20,164,,0.21,se,se608220,2022-07-18T21:20:52.018Z,"10 km NNW of Ashland, Virginia",earthquake,3.6,2.8,0.599,6,reviewed,se,se
+2010-09-26T03:28:11.120Z,43.3233333,-71.5896667,5,3.15,ml,13,220,0.8168,0.36,ld,ld60009101,2022-08-09T09:24:02.441Z,"2 km SW of Canterbury, New Hampshire",earthquake,1.49,31.61,0.15,5,reviewed,ld,ld
+2010-08-07T14:34:22.110Z,47.014,-70.654,25.4,3.5,mblg,16,52.4,,,us,usp000hhqg,2022-07-18T18:07:25.358Z,"8 km WNW of Montmagny, Canada",earthquake,,,,,reviewed,ott,ott
+2010-07-25T18:36:25.640Z,44.424,-66.846,5,3.2,mblg,22,151.9,,,us,usp000hgt9,2022-07-18T17:10:10.622Z,"35 km S of Fundy Bay, Canada",earthquake,,,,,reviewed,ott,ott
+2010-07-23T17:24:22.000Z,46.5,-71.62,18,3.51,ml,0,,2.733,,ld,ld60004916,2022-08-09T09:21:33.767Z,"18 km S of Saint-Antoine-de-Tilly, Canada",earthquake,,,0.15,0,reviewed,ld,ld
+2010-07-16T09:04:47.800Z,39.2606667,-77.4103333,7.03,3.6,ml,23,176,0.4666,0.4,ld,ld2010071600,2023-02-14T09:47:31.656Z,"5 km NNW of Barnesville, Maryland",earthquake,1.02,0.87,0.17,,reviewed,ld,ld
+2010-06-24T23:49:08.170Z,45.871,-75.518,16.7,3.2,mblg,16,91.9,,,us,usp000hegd,2014-11-07T01:41:44.075Z,"27 km NNE of Val-des-Monts, Canada",earthquake,,,,,reviewed,ott,ott
+2010-06-23T23:34:03.160Z,45.871,-75.474,22.9,3.3,mblg,12,143,,,us,usp000heer,2014-11-07T01:41:43.800Z,"28 km NNE of Val-des-Monts, Canada",earthquake,,,,,reviewed,ott,ott
+2010-06-23T18:29:02.990Z,45.897,-75.465,18,3,mblg,16,134.6,,,us,usp000heea,2014-11-07T01:41:43.767Z,"31 km NNE of Val-des-Monts, Canada",earthquake,,,,,reviewed,ott,ott
+2010-06-23T18:07:13.950Z,45.89,-75.51,18,3,mblg,6,145.9,,,us,usp000hee5,2014-11-07T01:41:43.758Z,"29 km NNE of Val-des-Monts, Canada",earthquake,,,,,reviewed,ott,ott
+2010-06-23T17:53:34.490Z,45.878,-75.477,18,3.1,mblg,10,143.9,,,us,usp000hee1,2014-11-07T01:41:43.752Z,"29 km NNE of Val-des-Monts, Canada",earthquake,,,,,reviewed,ott,ott
+2010-06-23T17:41:42.700Z,45.8835,-75.475,18.89,5.35,ml,56,82,,0.28,ld,ld2010062300,2023-04-29T03:49:46.660Z,"29 km NNE of Val-des-Monts, Canada",earthquake,0.25,0.31,0.2,,reviewed,ld,ld
+2010-06-03T12:25:02.930Z,40.0863333,-76.9736667,1.5,3.05,md,14,138,0.5025,0.35,ld,ld2010060301,2022-07-16T14:44:45.458Z,"4 km ENE of Franklintown, Pennsylvania",earthquake,0.68,31.61,0.15,,reviewed,ld,ld
+2010-05-30T02:34:01.980Z,36.5485,-89.716,9.2,3.1,md,39,50,0.04211,0.07,nm,nm607341,2022-07-16T14:31:37.607Z,"7 km S of Catron, Missouri",earthquake,0.2,0.6,0.144,18,reviewed,nm,nm
+2010-05-16T00:34:43.270Z,49.705,-66.943,18,3.1,mblg,19,82.6,,,us,usp000hct8,2014-11-07T01:41:29.590Z,"36 km S of Saint-Alexandre, Canada",earthquake,,,,,reviewed,ott,ott
+2010-05-06T14:04:54.490Z,34.187,-85.948,5,3.2,mblg,8,107.8,,1.17,us,usp000hcdk,2014-11-07T01:41:27.384Z,"11 km ENE of Whitesboro, Alabama",earthquake,,,,,reviewed,us,us
+2010-05-05T22:19:18.100Z,47.576,-70.088,19.1,3.1,mblg,40,48.4,,,us,usp000hcch,2022-07-16T12:54:34.164Z,"9 km SSE of La Malbaie, Canada",earthquake,,,,,reviewed,ott,ott
+2010-04-25T02:00:39.260Z,41.78,-81.08,5,3,mblg,22,86.1,,,us,usp000hbve,2023-10-15T04:51:25.369Z,"2 km WNW of Madison, Ohio",earthquake,,,,,reviewed,ogso,ott
+2010-04-24T07:08:54.280Z,47.058,-71.085,18,3.3,mblg,17,151.9,,,us,usp000hbuf,2022-07-16T11:42:00.360Z,"11 km NNW of Château-Richer, Canada",earthquake,,,,,reviewed,ott,ott
+2010-04-20T09:28:20.040Z,35.7251667,-84.001,2.24,3.3,mlg,28,41,,0.16,se,se608191,2022-07-16T11:24:14.559Z,"4 km SW of Maryville, Tennessee",earthquake,0.4,1.2,0.272,5,reviewed,se,se
+2010-04-15T17:06:29.600Z,45.528,-72.406,18,3,mblg,13,78.4,,,us,usp000hbf1,2014-11-07T01:41:16.503Z,"7 km WNW of Valcourt, Canada",earthquake,,,,,reviewed,ott,ott
+2010-04-04T09:19:14.010Z,38.599,-80.9161667,0.02,3.4,mlg,17,118,,0.38,se,se608185,2022-07-16T09:43:14.159Z,"14 km SW of Gassaway, West Virginia",earthquake,1.6,3.6,0.614,2,reviewed,se,se
