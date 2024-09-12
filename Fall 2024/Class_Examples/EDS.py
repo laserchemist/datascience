@@ -45,7 +45,7 @@ from rdkit import DataStructs
 DrawingOptions.bondLineWidth=1.8
 
 
-def MolTo3DView(mol, size=(300, 300), style="stick", surface=True, opacity=0.5, label=True):
+def MolTo3DView(mol, size=(300, 300), style="stick", surface=False, opacity=0.5, label=True):
     """Draw molecule in 3D
     
     Args:
@@ -81,3 +81,27 @@ def smiles3D(smiles):
         return mol
     else:
         return None
+def fplot(f,xrange,yrange):
+    import matplotlib.ticker as ticker
+    from matplotlib.ticker import (MultipleLocator, AutoMinorLocator)
+    plt.style.use('default')
+    fig = plt.figure()
+    ax = fig.add_subplot(1, 1, 1)
+    # Move left y-axis and bottom x-axis to centre, passing through (0,0)
+    ax.spines['left'].set_position(('data', 0))
+    ax.spines['bottom'].set_position(('data', 0))
+    # Eliminate upper and right axes
+    ax.spines['right'].set_color('none')
+    ax.spines['top'].set_color('none')
+    ax.xaxis.set_minor_locator(AutoMinorLocator())
+    ax.yaxis.set_minor_locator(AutoMinorLocator())
+    ax.tick_params(which='both', width=2)
+    ax.tick_params(which='major', length=7)
+    ax.tick_params(which='minor', length=4, width=.5,color='r')
+    plt.plot([x for x in np.arange(xrange[0],xrange[1],abs(xrange[1]-xrange[0])/50)],[f(x) for x in np.arange(yrange[0],yrange[1],abs(yrange[1]-yrange[0])/50)],lw=4, c='chartreuse',label='function')
+    ax.set_xlim(xrange)
+    ax.set_ylim(yrange)
+    plt.grid( which='major', color='g', linestyle='--',alpha=.15)
+    plt.legend()
+    plt.show()
+    return True
