@@ -16,7 +16,7 @@ test = {
          {
             'code': r"""
             >>> # Need to respond to question
-            >>> len(q6_answer >20)
+            >>> len(q6_answer) >20
             True
             """
          } 
