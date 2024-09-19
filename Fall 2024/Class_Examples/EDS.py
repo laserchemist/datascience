@@ -16,11 +16,12 @@ def FilterTdate(tbl,d1,d2,datec=0,fmtdate='%m/%d/%Y'):
         tbl.set_format(datec, DateFormatter(format='%Y-%m-%d',))    
     tbl_out = tbl.where(datec,are.between(mkd1,mkd2))
     return tbl_out    
-def ptrend(tbl,datec,datac,fmtdate="%b-%Y"):
+def ptrend(tbl,datec,datac, mult=1.0, fmtdate="%b-%Y"):
     """  Takes Datascience Table and plots time trend, returns number of days """
     # Input Data to plot
+    #tbl.set_format(datec, DateFormatter(format='%Y-%m-%d',))
     datetrend = tbl.column(datec).astype("datetime64[s]")  # Need to convert to a datetime64[s] object
-    data = tbl.column(datac)
+    data = mult*tbl.column(datac)
     loc = mdates.AutoDateLocator()  # Fancy function for dates
     fmt = mdates.AutoDateFormatter(loc)
     plt.gca().xaxis.set_major_formatter(fmt)
@@ -98,7 +99,7 @@ def fplot(f,xrange,yrange):
     ax.tick_params(which='both', width=2)
     ax.tick_params(which='major', length=7)
     ax.tick_params(which='minor', length=4, width=.5,color='r')
-    plt.plot([x for x in np.arange(xrange[0],xrange[1],abs(xrange[1]-xrange[0])/50)],[f(x) for x in np.arange(yrange[0],yrange[1],abs(yrange[1]-yrange[0])/50)],lw=4, c='chartreuse',label='function')
+    plt.plot([x for x in np.arange(xrange[0],xrange[1],abs(xrange[1]-xrange[0])/50)],[f(x) for x in np.arange(xrange[0],xrange[1],abs(xrange[1]-xrange[0])/50)],lw=4, c='chartreuse',label='function')
     ax.set_xlim(xrange)
     ax.set_ylim(yrange)
     plt.grid( which='major', color='g', linestyle='--',alpha=.15)
