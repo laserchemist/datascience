@@ -5,7 +5,7 @@ def test_open(text,notebook,length):
     for index, obj in enumerate(ntbk.cells):
         if text in obj.source:
             next_item = ntbk.cells[index + 1]
-            print(f'Your response: {next_item.source}')
+            #print(f'Your response: {next_item.source}')
             response_length = len(next_item.source) 
             break
     if response_length<length:
