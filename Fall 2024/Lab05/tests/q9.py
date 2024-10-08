@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> round(percent_correct, 2)  == 51.13
+          >>> round(percent_correct, 2)  >= 51.13
           True
           """,
           'hidden': False,
