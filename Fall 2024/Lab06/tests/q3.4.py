@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> ### Testing answer to open ended question if answer is not there or too short, fails
+          >>> ### Testing answer to 1st open ended question in Q3 above if answer is not there or too short, fails
           >>> test_open('Question: What are the most important words in the article?',notebook,60)==1
           True
           """,
@@ -15,7 +15,7 @@ test = {
         },
           {
           'code': r"""
-          >>> ### Testing answer to open ended question if answer is not there or too short, fails
+          >>> ### Testing answer to open ended question just above in Q3 if answer is not there or too short, fails
           >>> test_open('Question: Now what are the most important words in the article after removing stop words?',notebook,60)==1
           True
           """,
