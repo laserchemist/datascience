@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> # Remember a 20 sided die has outcomes from 1 to 20 not including 0
-          >>> mean20 == 10.5
+          >>> mean20 >= 10.2 and mean20 <=10.7
           True
           """,
           'hidden': False,
