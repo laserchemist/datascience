@@ -6,8 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> ### Testing answer to open ended question if answer is not there or too short, fails
-          >>> test_open('What trend do you see in the data?',notebook,60)==1
+          >>> ### Look carefully at the slope and multiply by x change of 20 g/mol
+          >>> bp_change > 20 and bp_change < 50
           True
           """,
           'hidden': False,
