@@ -45,12 +45,7 @@ def test_open_score(text,notebook,length,file):
             print(f'Similarity of your answer to expected ideas: {ascore:.2f}\n')
             response_length = len(next_item.source) 
             break
-    if response_length<length:
-        #print(f'Your reponse to {text} is not sufficient ')
-        score =0
-    else:
-        #print(f'Your reponse to {text} has been checked that you answered but not for content ')
-        score = ascore
+    score = ascore
     return score
 def check_open(file,notebook):
     '''Read file with parameters'''
