@@ -44,7 +44,7 @@ def test_open_score(text,notebook,length,file):
             ascore = model.predict((answer, next_item.source))/6
             print(f'Similarity of your answer to expected ideas: {ascore:.2f}\n')
             response_length = len(next_item.source) 
-            break
+            break 
     score = ascore
     return score
 def check_open(file,notebook):
