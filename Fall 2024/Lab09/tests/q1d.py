@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> ### Testing answer to open ended question if answer is not there or too short, fails
-          >>> test_open('describe in your own words Hubble's Law',notebook,60)==1
+          >>> test_open("describe in your own words Hubble's Law",notebook,60)==1
           True
           """,
           'hidden': False,
