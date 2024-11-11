@@ -6,7 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> predicted < 15
+          >>> ### Testing answer to open ended question if answer is not there or too short, fails
+          >>> test_open('Prediction Discusion',notebook,50)==1
           True
           """,
           'hidden': False,

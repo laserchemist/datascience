@@ -6,7 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> predicted < 15
+          >>> table=Table().with_columns('Name',make_array(2,2,1,0))
+          >>> majority(table) == 2
           True
           """,
           'hidden': False,

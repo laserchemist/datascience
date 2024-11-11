@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> predicted < 15
+          >>> len(test_nn_row) == 5
           True
           """,
           'hidden': False,

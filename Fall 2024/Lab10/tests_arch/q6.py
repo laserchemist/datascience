@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> predicted < 15
+          >>> train_i.num_rows == 120
           True
           """,
           'hidden': False,

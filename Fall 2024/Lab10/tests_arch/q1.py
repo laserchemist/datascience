@@ -6,7 +6,9 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> predicted < 15
+          >>> # Incorrect .split of data Table
+          >>> # Hint: .split(int(.8*ROH_data.num_rows))
+          >>> trainf.num_rows == 57
           True
           """,
           'hidden': False,

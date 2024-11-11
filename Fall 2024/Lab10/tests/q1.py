@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> trainf.num_rows == 217
+          >>> trainf.num_rows == 57
           True
           """,
           'hidden': False,

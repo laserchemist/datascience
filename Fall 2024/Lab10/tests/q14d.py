@@ -6,7 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> predicted < 15
+          >>> ### Testing answer to open ended question if answer is not there or too short, fails
+          >>> test_open('Evaluate the overall quality of our machine learning prediction based on the above histogram plot and the root mean squared error (RMSE)',notebook,50)==1
           True
           """,
           'hidden': False,

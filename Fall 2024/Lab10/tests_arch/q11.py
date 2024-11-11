@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> predicted < 15
+          >>> amino.num_rows > 0
           True
           """,
           'hidden': False,

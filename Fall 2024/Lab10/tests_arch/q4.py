@@ -6,7 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> predicted < 15
+          >>> # Should predict a boiling point below the highest which is less than 600 K
+          >>> predictionf <= 600.0
           True
           """,
           'hidden': False,
