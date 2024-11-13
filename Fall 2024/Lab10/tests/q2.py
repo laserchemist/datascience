@@ -19,7 +19,9 @@ test = {
           'code': r"""
           >>> # Make sure distance function properly handles arrays as input
           >>> ####### IT IS CRITICAL FOR REST OF LAB COMPUTATIONS #######
-          >>> distance(np.array([3,4]),np.array([2,4])) ==1.0
+          >>> # Watch parentheses, example
+          >>> # # d_p_q = np.sqrt(sum((make_array(2,3)-make_array(4,3))**2))
+          >>> distance(np.array([4,3]),np.array([3,1]))==np.sqrt(5)
           True
           """,
           'hidden': False,
