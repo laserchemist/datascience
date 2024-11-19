@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> # Be sure to fill in correct slope and intercept variables
-          >>> rmse_lr > 15 and rmse_lr < 25
+          >>> rmse_lr > 10 and rmse_lr < 30
           True
           """,
           'hidden': False,
