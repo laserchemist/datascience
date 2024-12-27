@@ -31,7 +31,7 @@ test = {
         },
         {
           'code': r"""
-          >>> expression == 2024
+          >>> expression == 2025
           True
           """,
           'hidden': False,
