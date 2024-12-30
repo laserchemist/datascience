@@ -1,20 +1,22 @@
 test = {
-  'name': 'Question 4 Open Ended',
+  'name': 'q4_open_ended',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
-            'code': r"""
-             >>> # You need to write more than that!
-             >>> len(q4_answer) > 20
-             True
-             """
-        },
+          'code': r"""
+          >>> ### Testing answer to open ended question if answer is not there or too short, fails
+          >>> test_open('Put your answer in the markdown cell below', notebook, 60) == 1
+          True
+          """,
+          'hidden': False,
+          'locked': False
+        }
       ],
       'scored': True,
       'setup': '',
-      'teardown': print('Note: this test only checks that you answered, not whether your answer is correct.'),
+      'teardown': print('Note: this test only checks that you answered, not what you wrote in your feedback.'),
       'type': 'doctest'
     }
   ]
