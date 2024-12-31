@@ -8,11 +8,9 @@ test = {
           'code': r"""
           >>> # Hint 1: Try to replace 'K' and then 'L' with ''
           >>> # 
-          >>> # Hint 2: Make sure:
-          >>> # you save the replaced string in gasdata, 
-          >>> # gasdata = gasdata.replace(...)
+          >>> # Hint 2: Make sure you are converting the units correctly.
           >>> gasdata
-          '300, 24.6171'
+          '24.6171, 24617.10'
           """,
           'hidden': False,
           'locked': False

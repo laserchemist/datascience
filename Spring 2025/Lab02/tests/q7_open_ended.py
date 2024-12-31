@@ -1,16 +1,18 @@
 test = {
-  'name': 'Question 7 Open Ended',
+  'name': 'q7_open_ended',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
-            'code': r"""
-             >>> # You need to write more than that!
-             >>> len(q7_answer) > 20
-             True
-             """
-        },
+          'code': r"""
+          >>> ### Testing answer to open ended question if answer is not there or too short, fails
+          >>> test_open('Periodically, you will be asked questions', notebook, 60) == 1
+          True
+          """,
+          'hidden': False,
+          'locked': False
+        }
       ],
       'scored': True,
       'setup': '',
