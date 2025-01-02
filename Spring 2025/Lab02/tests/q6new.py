@@ -10,7 +10,7 @@ test = {
           >>> # 
           >>> # Hint 2: Make sure you are converting the units correctly.
           >>> gasdata
-          '24.6171, 24617.10'
+          '300, 24.6171'
           """,
           'hidden': False,
           'locked': False
