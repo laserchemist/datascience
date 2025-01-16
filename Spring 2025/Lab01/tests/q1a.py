@@ -17,8 +17,8 @@ test = {
           'code': r"""
           >>> # It looks like you didn't change the cell to define
           >>> # your name as a string in place of ... .  It should be your name in quotes,
-          >>> # name = 'Jonathan'
-          >>> name != ...
+          >>> # name = "Jonathan"
+          >>> name != "..."
           True
           """,
           'hidden': False,
