@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> # Make sure your function follows the correct function format/syntax, see above
-          >>> callable(density)
+          >>> callable(f)
           True
           """,
           'hidden': False,
@@ -15,9 +15,8 @@ test = {
         },
         {
           'code': r"""
-          >>> # Your function does not return the correct value, check the multiplication/division, addition/subtraction 
-          >>> # and use of the P, T, M paramters in your  function definition.
-          >>> density(1,298,18) < 1 and  density(1,298,18) > 0.6
+          >>> # Your function does not return the correct value, check the multiplication and addition/subtraction in your function definition.
+          >>> f(4) == 13
           True
           """,
           'hidden': False,
