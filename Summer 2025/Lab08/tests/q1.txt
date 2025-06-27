@@ -1,0 +1,1 @@
+There is a correlation between wait time and duration. If we were to do a regression we would find a positive slope when plotting duration on the x axis and wait time on the y axis.
