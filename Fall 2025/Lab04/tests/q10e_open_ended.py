@@ -7,7 +7,7 @@ test = {
         {
           'code': r"""
           >>> ### Testing answer to open ended question if answer is not there or too short, fails
-          >>> test_open('Your discussion of results from COVID and waster monitoring of diseases', notebook, 80) == 1
+          >>> test_open('Your discussion of results from COVID and wastewater monitoring of diseases', notebook, 80) == 1
           True
           """,
           'hidden': False,
