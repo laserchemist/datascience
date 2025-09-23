@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> 10000 <= total_money <= 15000
+          >>> 0.24 <= total_dose <= 4.8
           True
           """,
           'hidden': False,
