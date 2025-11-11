@@ -1,0 +1,28 @@
+Variable,Type,Description,Values,Notes
+school,Categorical,Student's school,GP or MS,Gabriel Pereira or Mousinho da Silveira
+sex,Binary,Gender,M or F,Male or Female
+age,Numeric,Student age,15-22,Years
+address,Binary,Home location,U or R,Urban or Rural
+famsize,Binary,Family size,LE3 or GT3,≤3 or >3 members
+Pstatus,Binary,Parent cohabitation,T or A,Together or Apart
+Medu,Ordinal,Mother's education,0-4,"0=none, 4=higher ed"
+Fedu,Ordinal,Father's education,0-4,"0=none, 4=higher ed"
+studytime,Ordinal,Weekly study time,1-4,"1=<2hrs, 4=>10hrs"
+failures,Numeric,Past class failures,0-4,Number of failures
+schoolsup,Binary,Extra school support,yes/no,Educational support
+famsup,Binary,Family support,yes/no,Family educational support
+paid,Binary,Extra paid classes,yes/no,Tutoring/extra classes
+activities,Binary,Extracurriculars,yes/no,Participates in activities
+higher,Binary,Wants higher ed,yes/no,Aspiration for university
+internet,Binary,Internet at home,yes/no,Home internet access
+romantic,Binary,Romantic relationship,yes/no,In a relationship
+famrel,Ordinal,Family relationships,1-5,"1=very bad, 5=excellent"
+freetime,Ordinal,Free time,1-5,"1=very low, 5=very high"
+goout,Ordinal,Going out,1-5,"1=very low, 5=very high"
+Dalc,Ordinal,Weekday alcohol,1-5,"1=very low, 5=very high"
+Walc,Ordinal,Weekend alcohol,1-5,"1=very low, 5=very high"
+health,Ordinal,Health status,1-5,"1=very bad, 5=very good"
+absences,Numeric,School absences,0-93,Number of absences
+G1,Numeric,First period grade,0-20,Grade (0-20 scale)
+G2,Numeric,Second period grade,0-20,Grade (0-20 scale)
+G3,Numeric,**FINAL GRADE**,0-20,**PRIMARY OUTCOME**
