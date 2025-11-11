@@ -1,0 +1,24 @@
+﻿Attribute,Description,Unit,Data source,References
+gauge_id,catchment identifier (8-digit USGS hydrologic unit code),-,N15 - USGS data,
+gauge_lat,gauge latitude ,° north,N15 - USGS data,
+gauge_lon,gauge longitude,° east,N15 - USGS data,
+elev_mean,catchment mean elevation,meter above sea level,N15 - USGS data,
+slope_mean,catchment mean slope,m/km,N15 - USGS data,
+area_gages2,catchment area (GAGESII estimate),km2,N15 - USGS data,Falcone (2011) 
+,,,,
+p_mean,mean daily precipitation,mm/day,N15 - Daymet*,
+pet_mean,mean daily PET [estimated by N15 using Priestley-Taylor formulation calibrated for each catchment],mm/day,N15 - Daymet*,
+aridity,"aridity (PET/P, ratio of mean PET [estimated by N15 using Priestley-Taylor formulation calibrated for each catchment] to mean precipitation)",-,N15 - Daymet*,
+p_seasonality,"seasonality and timing of precipitation (estimated using sine curves to represent the annual temperature and preciptiation cycles, positive [negative] values indicate that precipitation peaks in summer [winter], values close to 0 indicate uniform precipitation throughout the year)",-,N15 - Daymet*,Eq. 14 in Woods et al. (2009)
+frac_snow_daily,"fraction of precipitation falling as snow (i.e., on days colder than 0°C)",-,N15 - Daymet*,
+q_mean,mean daily discharge,mm/day,N15 - USGS data*,
+runoff_ratio,runoff ratio (ratio of mean daily discharge to mean daily precipitation),-,N15 - USGS data*,Eq. 2 in Sawicz et al. (2011)
+baseflow_index,"baseflow index (ratio of mean daily baseflow to mean daily discharge, hydrograph separation performed using Ladson et al. [2013] digital filter)",-,N15 - USGS data*,Ladson et al. (2013)
+Q5,5% flow quantile (flow flow),mm/day,N15 - USGS data*,
+Q95,95% flow quantile (high flow),mm/day,N15 - USGS data*,
+zero_q_freq,frequency of days with Q = 0 mm/day,%,N15 - USGS data*,
+forest_frac,forest fraction,-,N15 - USGS data,
+lai_max,maximum monthly mean of the leaf area index (based on 12 monthly means),-,MODIS*,
+lai_diff,difference between the maximum and mimumum monthly mean of the leaf area index (based on 12 monthly means),-,MODIS*,
+,,,,
+,,,,
