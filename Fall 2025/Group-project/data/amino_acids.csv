@@ -1,0 +1,21 @@
+Name,Three_Letter,One_Letter,SMILES,Property,Description
+Alanine,Ala,A,C[C@H](N)C(O)=O,Hydrophobic,"Small, nonpolar"
+Arginine,Arg,R,NC(NCCCC(N)C(O)=O)=[NH2+],Charged (+),"Basic, positively charged"
+Asparagine,Asn,N,NC(=O)CC(N)C(O)=O,Hydrophilic,"Polar, uncharged"
+Aspartic acid,Asp,D,OC(=O)CC(N)C(O)=O,Charged (-),"Acidic, negatively charged"
+Cysteine,Cys,C,SC[C@H](N)C(O)=O,Special,Forms disulfide bonds
+Glutamine,Gln,Q,NC(=O)CCC(N)C(O)=O,Hydrophilic,"Polar, uncharged"
+Glutamic acid,Glu,E,OC(=O)CCC(N)C(O)=O,Charged (-),"Acidic, negatively charged"
+Glycine,Gly,G,NCC(O)=O,Special,"Smallest, most flexible"
+Histidine,His,H,NC(Cc1cnc[nH]1)C(O)=O,Charged (+),Can be charged or neutral
+Isoleucine,Ile,I,CC[C@H](C)[C@H](N)C(O)=O,Hydrophobic,"Branched, nonpolar"
+Leucine,Leu,L,CC(C)C[C@H](N)C(O)=O,Hydrophobic,"Branched, nonpolar"
+Lysine,Lys,K,NCCCC[C@H](N)C(O)=O,Charged (+),"Basic, positively charged"
+Methionine,Met,M,CSCC[C@H](N)C(O)=O,Hydrophobic,Contains sulfur
+Phenylalanine,Phe,F,OC(=O)[C@@H](N)Cc1ccccc1,Hydrophobic,"Aromatic, bulky"
+Proline,Pro,P,OC(=O)[C@@H]1CCCN1,Special,"Rigid, creates kinks"
+Serine,Ser,S,OC[C@H](N)C(O)=O,Hydrophilic,"Polar, can be phosphorylated"
+Threonine,Thr,T,C[C@@H](O)[C@H](N)C(O)=O,Hydrophilic,"Polar, can be phosphorylated"
+Tryptophan,Trp,W,OC(=O)[C@@H](N)Cc1c[nH]c2ccccc12,Hydrophobic,"Largest, aromatic"
+Tyrosine,Tyr,Y,OC(=O)[C@@H](N)Cc1ccc(O)cc1,Special,"Aromatic, can be phosphorylated"
+Valine,Val,V,CC(C)[C@H](N)C(O)=O,Hydrophobic,"Branched, nonpolar"
